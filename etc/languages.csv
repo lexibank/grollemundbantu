@@ -1,0 +1,425 @@
+ID,NAME,ISO,GLOTTOLOG_NAME,GLOTTOCODE
+A11_Londo,A11_Londo,bdu,Oroko,orok1266
+A121_Mbonge,A121_Mbonge,bdu,Oroko,orok1266
+A122_Bakundu,A122_Bakundu,bdu,Oroko,orok1266
+A141_Lefo,A141_Lefo,bwt,Bafaw-Balong,bafa1247
+A151_Nkongho,A151_Nkongho,nkc,Nkongho,nkon1247
+A15A_Mbuu,A15A_Mbuu,mbo,Mbo (Cameroon),mboc1235
+A15B_Mienge_NW_Manenguba,A15B_Mienge_NW_Manenguba,bsi,Bassossi,bass1260
+A15C_Akossi,A15C_Akossi,bss,Akoose,akoo1248
+A15C_Elung_Central_Manenguba,A15C_Elung_Central_Manenguba,bss,Akoose,akoo1248
+A15C_Mkaa,A15C_Mkaa,bqz,Bakaka,baka1273
+A15_Manenguba,A15_Manenguba,bsi,Bassossi,bass1260
+A22_Bakweri,A22_Bakweri,bri,Mokpwe,mokp1239
+A24_Duala,A24_Duala,dua,Duala,dual1243
+A27_Malimba,A27_Malimba,mzd,Malimba,mali1280
+A31_Bubi,A31_Bubi,bvb,Bube,bube1242
+A32C_Batanga,A32C_Batanga,bnm,Batanga,bata1285
+A33a_Yasa,A33a_Yasa,yko,Yasa,yasa1242
+A34_Benga,A34_Benga,bng,Benga,beng1282
+A41_Barombi-Kang,A41_Barombi-Kang,bbi,Barombi,baro1252
+A42_Abo,A42_Abo,abb,Bankon,bank1256
+A43a_Basaa,A43a_Basaa,bas,Basa (Cameroon),basa1284
+A44_Tunen,A44_Tunen,tvu,Tunen,tune1261
+A45_Nyokon,A45_Nyokon,nvo,Nyokon,nyok1243
+A462_Yambeta,A462_Yambeta,yat,Yambeta,yamb1252
+A46_Nomaande,A46_Nomaande,lem,Nomaande,noma1260
+A51_Bafia_maja,A51_Bafia_maja,ksf,Bafia,bafi1243
+A53_Bafia_rikpa,A53_Bafia_rikpa,ksf,Bafia,bafi1243
+A54_Tibea,A54_Tibea,ngy,Tibea,tibe1274
+A601_Tuki,A601_Tuki,bag,Tuki,tuki1240
+A61_Ngoro-Asom,A61_Ngoro-Asom,bag,Tuki,tuki1240
+A61_Ngoro-Bisoo,A61_Ngoro-Bisoo,bag,Tuki,tuki1240
+A61_Ngoro-lunda,A61_Ngoro-lunda,bag,Tuki,tuki1240
+A621_Nubaca,A621_Nubaca,baf,Nubaca,nuba1241
+A622_Nugunu,A622_Nugunu,yas,Nugunu (Cameroon),nugu1242
+A62A_Nuasue,A62A_Nuasue,yav,Yangben,yang1293
+A62A_Nukalonge,A62A_Nukalonge,yav,Yangben,yang1293
+A62B_Mmala,A62B_Mmala,mmu,Mmaala,mmaa1238
+A62C_Libie,A62C_Libie,ekm,Elip,elip1238
+A63_Mangisa,A63_Mangisa,eto,Eton (Cameroon),eton1253
+A71_Eton,A71_Eton,eto,Eton (Cameroon),eton1253
+A72a_Ewondo,A72a_Ewondo,ewo,Ewondo,ewon1239
+A74a_Bulu,A74a_Bulu,bum,Bulu (Cameroon),bulu1251
+A75a_Fang_Bitam,A75a_Fang_Bitam,fan,Fang (Equatorial Guinea),fang1246
+A75a_Fang_Medouneu,A75a_Fang_Medouneu,fan,Fang (Equatorial Guinea),fang1246
+A75a_Fang_Minvoul,A75a_Fang_Minvoul,fan,Fang (Equatorial Guinea),fang1246
+A803_Shiwa,"A803_Shiwa",,Shiwa,shiw1234
+A81_Kwasio,A81_Kwasio,nmg,Kwasio,kwas1243
+A832_Bekol,A832_Bekol,biw,Kol (Cameroon),kolc1235
+A83_Mekaa,A83_Mekaa,mcp,Makaa,maka1304
+A841_Badwe,A841_Badwe,ozm,Koonzime,koon1245
+A84_Njem,A84_Njem,njy,Njyem,njye1238
+A85b_Bekwil_Makokou,A85b_Bekwil_Makokou,bkw,Bekwil,bekw1242
+A85b_Bekwil_Mv,A85b_Bekwil_Mv,bkw,Bekwil,bekw1242
+A86c_Mpiemo,A86c_Mpiemo,mcx,Mpiemo,mpie1238
+A87_Bomwali,A87_Bomwali,pmm,Pomo,pomo1271
+A91_Kwakum,A91_Kwakum,kwu,Kwakum,kwak1266
+A93_Kako,A93_Kako,kkj,Kako,kako1242
+Aghem_Grassfields,Aghem_Grassfields,agq,Aghem,aghe1239
+B11a_Mpongwe,B11a_Mpongwe,mye,Myene,myen1241
+B11b_Orungu,B11b_Orungu,mye,Myene,myen1241
+B11c_Galwa,B11c_Galwa,mye,Myene,myen1241
+B11d_Dyumba,B11d_Dyumba,mye,Myene,myen1241
+B11F_Enenga,B11F_Enenga,mye,Myene,myen1241
+B201_Ndasa,B201_Ndasa,nda,Ndasa,ndas1238
+B202_Sigu,B202_Sigu,sxe,Sighu,sigh1238
+B203_Samaye,B203_Samaye,syx,Osamayi,osam1235
+B204_Ndambomo_Li,B204_Ndambomo_Li,nxo,Ndambomo,ndam1254
+B204_Ndambomo_Massoukou,B204_Ndambomo_Massoukou,nxo,Ndambomo,ndam1254
+B204_Ndambomo_Mbadi,B204_Ndambomo_Mbadi,nxo,Ndambomo,ndam1254
+B21_Seki,B21_Seki,syi,Seki,seki1238
+B22a_Kele,B22a_Kele,keb,Kélé,kele1257
+B22b_Koya,B22b_Koya,nra,Ngom,ngom1270
+B22b_Ngom,B22b_Ngom,nra,Ngom,ngom1270
+B22E_Mwesa,"B22E_Mwesa",,Mwesa,mwes1234
+B23_Mbangwe,B23_Mbangwe,zmn,Mbangwe,mban1268
+B24_Wumbvu,B24_Wumbvu,wum,Wumbvu,wumb1242
+B251_Shake,B251_Shake,sak,Sake,sake1247
+B252_Mahongwe,B252_Mahongwe,mhb,Mahongwe,maho1248
+B25_Kota,B25_Kota,koq,Kota (Gabon),kota1274
+B301_Viya,B301_Viya,gev,Viya,eviy1235
+B302_Himba,B302_Himba,sbw,Simba,simb1254
+B304_Pinzi,B304_Pinzi,pic,Pinji,pinj1243
+B305_Vove,B305_Vove,buw,Bubi,bubi1250
+B31_Tsogo,B31_Tsogo,tsv,Tsogo,tsog1243
+B32_Kande,B32_Kande,kbs,Kande,kand1300
+B404_Ngubi,"B404_Ngubi",,Ngubi,ngub1239
+B41_Shira,B41_Shira,swj,Sira,sira1266
+B42_Sangu_Mb,B42_Sangu_Mb,snq,Sangu (Gabon),sang1333
+B42_Sangu_Mi,B42_Sangu_Mi,snq,Sangu (Gabon),sang1333
+B43_Punu,B43_Punu,puu,Punu,punu1239
+B44_Lumbu,B44_Lumbu,lup,Lumbu,lumb1249
+B501_Wanzi_E,B501_Wanzi_E,wdd,Wandji,wand1266
+B501_Wanzi_Mo,B501_Wanzi_Mo,wdd,Wandji,wand1266
+B503_Vili,"B503_Vili",,Vili of Ngounie,vili1239
+B51_Duma,B51_Duma,dma,Duma,duma1253
+B51_Duma_La,B51_Duma_La,dma,Duma,duma1253
+B52_Nzebi,B52_Nzebi,nzb,Njebi,njeb1242
+B53_Tsaangi_Poungi,B53_Tsaangi_Poungi,tsa,Tsaangi,tsaa1242
+B601_Lempini,B601_Lempini,mbm,Ombamba,omba1241
+B602_Kaningi_Nord,B602_Kaningi_Nord,kzo,Kaningi,kani1279
+B602_Kaningi_Sud,B602_Kaningi_Sud,kzo,Kaningi,kani1279
+B62_Mbaama,B62_Mbaama,mbm,Ombamba,omba1241
+B63_Ndumu,B63_Ndumu,nmd,Ndumu,ndum1239
+B701_Atsitsege,B701_Atsitsege,tck,Tchitchege,tchi1245
+B71aIb_Teke_Ibali_Congo,B71aIb_Teke_Ibali_Congo,tek,Ibali Teke,ibal1241
+B71aLe_Teke_Leconi,B71aLe_Teke_Leconi,teg,Teke-Tege,teke1275
+B71a_Teke_Dj,B71a_Teke_Dj,teg,Teke-Tege,teke1275
+B71a_Teke_Os,B71a_Teke_Os,teg,Teke-Tege,teke1275
+B77b_Fumu,B77b_Fumu,ifm,Teke-Fuumu,teke1274
+B78_Wuumu,B78_Wuumu,ifm,Teke-Fuumu,teke1274
+B81_Tiene,B81_Tiene,tii,Tiene,tien1242
+B82_Buma,B82_Buma,boh,Boma,boma1246
+B84_Mbunda,B84_Mbunda,zmp,Mpuono,mpuo1241
+B85d_Nsongo,B85d_Nsongo,soo,Songo,song1299
+B85e_Mput,B85e_Mput,yns,Yansi,yans1239
+B85_Yanzi,B85_Yanzi,yns,Yansi,yans1239
+B861_Ngul,B861_Ngul,nlo,Ngul,ngul1247
+B862_Lwel,"B862_Lwel",,Lwel,lwel1234
+B863_Pindi,B863_Pindi,soo,Songo,song1299
+B864_Ngong,B864_Ngong,noq,Ngongo (Democratic Republic of Congo),ngon1267
+B865_Nzadi,"B865_Nzadi",,Nzadi,nzad1234
+B86_Dinga,B86_Dinga,diz,Ding,ding1239
+B86_Dzing,B86_Dzing,diz,Ding,ding1239
+Bamun_Grassfields,Bamun_Grassfields,bax,Bamun,bamu1253
+Bile_Jarawan,Bile_Jarawan,bil,Bile,bile1244
+Bwazza_Jarawan,Bwazza_Jarawan,mbu,Mbula-Bwazza,mbul1260
+C101_Babole_Dz,C101_Babole_Dz,bvx,Dibole,dibo1245
+C101_Babole_Ep,C101_Babole_Ep,bvx,Dibole,dibo1245
+C101_Babole_Ma,C101_Babole_Ma,bvx,Dibole,dibo1245
+C104_Aka,C104_Aka,axk,Yaka (Central African Republic),yaka1272
+C105_Mbenga,C105_Mbenga,axk,Yaka (Central African Republic),yaka1272
+C141_Bonyala,C141_Bonyala,bui,Bongili,bong1284
+C142_Mondongo,C142_Mondongo,bmg,Bamwe,bamw1238
+C15_Bongili,C15_Bongili,bui,Bongili,bong1284
+C21_Ngare,C21_Ngare,mdu,Mboko,mbok1243
+C22_Akwa,C22_Akwa,akw,Akwa,akwa1248
+C24_Koyo,C24_Koyo,koh,Koyo,koyo1242
+C25A_Bunji,C25A_Bunji,mdw,Mbosi,mbos1242
+C25B_Olee,C25B_Olee,mdw,Mbosi,mbos1242
+C25C_Ondinga,C25C_Ondinga,mdw,Mbosi,mbos1242
+C25E_Eboyi,C25E_Eboyi,mdw,Mbosi,mbos1242
+C25_Mboshi,C25_Mboshi,mdw,Mbosi,mbos1242
+C302_Bolondo,C302_Bolondo,bzm,Bolondo,bolo1263
+C322_Zamba,"C322_Zamba",,Zamba,zamb1245
+C323_Mpama,"C323_Mpama",,Mpama,mpam1239
+C32_Bobangi,C32_Bobangi,bni,Bangi,bang1354
+C34_Sakata,C34_Sakata,skt,Sakata,saka1287
+C36d_Lingala,C36d_Lingala,lin,Lingala,ling1263
+C36g_Monyongo,C36g_Monyongo,bmg,Bamwe,bamw1238
+C36g_Mosange,C36g_Mosange,ndl,Ndolo,ndol1238
+C37_Ebudza,C37_Ebudza,bja,Budza,budz1238
+C401_Babati_1919,C401_Babati_1919,bww,Bwa,bwaa1238
+C401_Pakabete,C401_Pakabete,pae,Pagibete,pagi1243
+C412_Libobi,C412_Libobi,bmg,Bamwe,bamw1238
+C41_Ngombe,C41_Ngombe,ngc,Ngombe (Democratic Republic of Congo),ngom1268
+C42_Ebwela,C42_Ebwela,bwl,Bwela,bwel1238
+C43A_Baati,C43A_Baati,bww,Bwa,bwaa1238
+C44_Bwa,C44_Bwa,bww,Bwa,bwaa1238
+C52_Soko_1919,C52_Soko_1919,soc,So (Democratic Republic of Congo),sode1235
+C52_Soko,C52_Soko,soc,So (Democratic Republic of Congo),sode1235
+C54_Turumba_1919,C54_Turumba_1919,loo,Lombo,lomb1260
+C55_Lokele,C55_Lokele,khy,Kele (Democratic Republic of Congo),kele1255
+C61E_Konda,C61E_Konda,lol,Mongo (Atlantic-Congo),mong1338
+C61_Mongo,C61_Mongo,lol,Mongo (Atlantic-Congo),mong1338
+C71_Tetela,C71_Tetela,tll,Tetela,tete1250
+C76_Ombo,C76_Ombo,oml,Ombo,ombo1238
+C81_Dengese,C81_Dengese,dez,Dengese,deng1250
+C83_Bushong,C83_Bushong,buf,Bushoong,bush1247
+C85_Wongo,C85_Wongo,won,Wongo,wong1247
+D11_Mbole,D11_Mbole,mdq,Mbole,mbol1247
+D12_Lengola,D12_Lengola,lej,Lengola,leng1258
+D13_Metoko,D13_Metoko,zmq,Mituku,mitu1240
+D14_Enya,D14_Enya,gey,Enya,enya1247
+D201_Liko,D201_Liko,lik,Lika,lika1243
+*D20B_Vamba_1919,*D20B_Vamba_1919,rwm,Amba (Uganda),amba1263
+D211_Kango,D211_Kango,kzy,Kango (Tshopo District),kang1285
+D21_Baali,D21_Baali,bcp,Bali (Democratic Republic of Congo),bali1274
+D23_Kibira-Kumu_1919,D23_Kibira-Kumu_1919,kmw,Komo (Democratic Republic of Congo),komo1260
+D24_Songola,D24_Songola,sod,Songoora,song1300
+D25_Lega,D25_Lega,lea,Lega-Shabunda,lega1249
+D28_Holoholo,D28_Holoholo,hoo,Holoholo,holo1240
+*D304_Homa_1919,*D304_Homa_1919,hom,Homa,homa1239
+*D305_Nyanga-li,*D305_Nyanga-li,nyc,Nyanga-li,nyan1303
+*D308_Bodo2,*D308_Bodo2,buu,Budu,budu1250
+*D308_Ebodo,*D308_Ebodo,buu,Budu,budu1250
+D311_Bila,D311_Bila,bip,Bila,bila1255
+D313_Mbuttu_1919,D313_Mbuttu_1919,buu,Budu,budu1250
+D32_Bira,D32_Bira,brf,Bera,bera1259
+D32_Bira_Bunia,D32_Bira_Bunia,brf,Bera,bera1259
+D331_Bvanuma,D331_Bvanuma,vau,Vanuma,vanu1242
+D333_Ndaaka,D333_Ndaaka,ndk,Ndaka,ndak1241
+D334_Mbo,D334_Mbo,zmw,Mbo (Democratic Republic of Congo),mbod1238
+D33_Nyali,D33_Nyali,nlj,Nyali,nyal1250
+D43_Nyanga,D43_Nyanga,nyj,Nyanga,nyan1304
+D55_Buyu,D55_Buyu,byi,Buyu,buyu1239
+Duguri_Jarawan,Duguri_Jarawan,dbm,Duguri,dugu1249
+E46_Sonjo,E46_Sonjo,soz,Temi,temi1247
+E51_Kikuyu,E51_Kikuyu,kik,Kikuyu,kiku1240
+E52_Embu,E52_Embu,ebu,Embu,embu1241
+E52_Mbeere,E52_Mbeere,ebu,Embu,embu1241
+E531_Muthambi,E531_Muthambi,mws,Mwimbi-Muthambi,mwim1241
+E531_Mwimbi,E531_Mwimbi,mws,Mwimbi-Muthambi,mwim1241
+E53_Igoji,E53_Igoji,mer,Meru,meru1245
+E53_Imenti,E53_Imenti,mer,Meru,meru1245
+E53_Meruimenti,E53_Meruimenti,mer,Meru,meru1245
+E53_Meru,E53_Meru,mer,Meru,meru1245
+E53_Merutig,E53_Merutig,mer,Meru,meru1245
+E53_Miutini,E53_Miutini,mer,Meru,meru1245
+E53_Tigania,E53_Tigania,mer,Meru,meru1245
+E541_Chuka,E541_Chuka,cuh,Chuka,chuk1274
+E54_Tharaka,E54_Tharaka,thk,Tharaka,thar1283
+E55_Kamba,E55_Kamba,kam,Kamba (Kenya),kamb1297
+E55_Kamba_Kitu,E55_Kamba_Kitu,kam,Kamba (Kenya),kamb1297
+E55_Kamba_Mach,E55_Kamba_Mach,kam,Kamba (Kenya),kamb1297
+E56_Daiso,E56_Daiso,dhs,Dhaiso,dhai1238
+E621B_Machame,E621B_Machame,jmc,Machame,mach1266
+E621C_Siha,E621C_Siha,jmc,Machame,mach1266
+E621D_Kibosho,E621D_Kibosho,jmc,Machame,mach1266
+E622A_Kimochi,E622A_Kimochi,old,Mochi,moch1256
+E622C_Lema,E622C_Lema,vun,Vunjo,vunj1238
+E622C_Mamba,E622C_Mamba,vun,Vunjo,vunj1238
+E622C_Vunjo,E622C_Vunjo,vun,Vunjo,vunj1238
+E623A_Kiseri,E623A_Kiseri,rof,Rombo,romb1244
+E623D_Keni,E623D_Keni,rof,Rombo,romb1244
+E623_Mkuu,E623_Mkuu,rof,Rombo,romb1244
+E64_Kahe,E64_Kahe,hka,Kahe,kahe1238
+E65_Gweno,E65_Gweno,gwe,Gweno,gwen1239
+E701_Elwana,E701_Elwana,mlk,Ilwana,ilwa1237
+E71A_Upper_Pokomo,E71A_Upper_Pokomo,pkb,Pokomo,poko1261
+E72a_Giryama,E72a_Giryama,nyf,Giryama,giry1241
+E73_Digo,E73_Digo,dig,Digo,digo1243
+E74a_Dawida,E74a_Dawida,dav,Taita,tait1250
+E74a_Tuveta,E74a_Tuveta,tvs,Taveta,tave1240
+F12_Bende,F12_Bende,bdp,Bende,bend1258
+F21_Ntuzu,F21_Ntuzu,suk,Sukuma,suku1261
+F21_Sukuma,F21_Sukuma,suk,Sukuma,suku1261
+F22_Nyamwezi,F22_Nyamwezi,nym,Nyamwezi,nyam1276
+F23_Sumbwa,F23_Sumbwa,suw,Sumbwa,sumb1240
+F24_Kimbu,F24_Kimbu,kiv,Kimbu,kimb1242
+F25_Bungu,F25_Bungu,wun,Bungu,bung1265
+F31_Nyiramba,F31_Nyiramba,nim,Nilamba,nila1242
+F32_Nyaturucha,F32_Nyaturucha,rim,Nyaturu,nyat1246
+F32_Nyaturuwil,F32_Nyaturuwil,rim,Nyaturu,nyat1246
+F33_Langi,F33_Langi,lag,Langi,lang1320
+Fefe_Grassfields,Fefe_Grassfields,fmp,Fe'fe',fefe1239
+G11_Gogo,G11_Gogo,gog,Gogo,gogo1263
+G12_Kagulu,G12_Kagulu,kki,Kagulu,kagu1239
+G22A_North_Pare,G22A_North_Pare,asa,Asu (Tanzania),asut1235
+G22_Asu,G22_Asu,asa,Asu (Tanzania),asut1235
+G22B_South_Pare,G22B_South_Pare,asa,Asu (Tanzania),asut1235
+G23_Sambaa,G23_Sambaa,ksb,Shambala,sham1280
+G24_Bondei,G24_Bondei,bou,Bondei,bond1247
+G31_Zigua,G31_Zigua,ziw,Zigula,zigu1242
+G32_Doe,G32_Doe,doe,Doe,doee1238
+G32_Kwere,G32_Kwere,cwe,Kwere,kwer1261
+G33_Zaramo,G33_Zaramo,zaj,Zaramo,zara1247
+G34_Nguungulu,G34_Nguungulu,ngp,Ngulu,ngul1246
+G35_Luguru,G35_Luguru,ruf,Luguru,lugu1238
+G36_Kami,G36_Kami,kcu,Kami (Tanzania),kami1256
+G37_Kutu,G37_Kutu,kdc,Kutu,kutu1263
+G39_Saghala,G39_Saghala,sbm,Sagala,saga1256
+G401_Mwani,G401_Mwani,wmw,Mwani,mwan1247
+G412_Mwiini,G412_Mwiini,swh,Swahili,swah1253
+G41_Bajuni,G41_Bajuni,swh,Swahili,swah1253
+G42a_Amu,G42a_Amu,swh,Swahili,swah1253
+G42d_Unguja,G42d_Unguja,swh,Swahili,swah1253
+G42_Swahili,G42_Swahili,swh,Swahili,swah1253
+G43_Kae,G43_Kae,swh,Swahili,swah1253
+G44a_Ngazija,G44a_Ngazija,zdj,Ngazidja Comorian,ngaz1238
+G44b_Ndzwani,G44b_Ndzwani,wni,Ndzwani Comorian,ndzw1235
+G44D_Maore,G44D_Maore,swb,Maore Comorian,maor1244
+G51_Pogoro,G51_Pogoro,poy,Pogolo,pogo1243
+G52_Ndamba,G52_Ndamba,ndj,Ndamba,ndam1239
+G61_Sangu,G61_Sangu,sbp,Sangu (Tanzania),sang1330
+G62_Hehe,G62_Hehe,heh,Hehe,hehe1240
+G63_Bena,G63_Bena,bez,Bena (Tanzania),bena1262
+G64_Pangwa,G64_Pangwa,pbr,Pangwa,pang1287
+G65_Kinga,G65_Kinga,zga,Nuclear Kinga,nucl1379
+G66_Wanji,G66_Wanji,wbi,Vwanji,vwan1235
+H111_Hangala,H111_Hangala,ldi,Laari,laar1238
+H11_Beembe,H11_Beembe,beq,Beembe,beem1239
+H12_Civili_Congo,H12_Civili_Congo,vif,Vili,vili1238
+H131_Kisundi_Congo_Kimongo_1988,H131_Kisundi_Congo_Kimongo_1988,sdj,Suundi,suun1239
+H13_Kikunyi_1989,H13_Kikunyi_1989,njx,Kunyi,kuny1238
+H16a_Kisikongo_2013,H16a_Kisikongo_2013,kwy,San Salvador Kongo,sans1272
+H16a_Kisolongo_DRC_2012,H16a_Kisolongo_DRC_2012,kng,Koongo,koon1244
+H16b_Kindibu_2013,H16b_Kindibu_2013,kng,Koongo,koon1244
+H16_Cilinji,H16_Cilinji,yom,Yombe,yomb1244
+H16_Cimbala,H16_Cimbala,yom,Yombe,yomb1244
+H16_Cizobe,H16_Cizobe,yom,Yombe,yomb1244
+H16c_Kiyombe_DRC_1982,H16c_Kiyombe_DRC_1982,yom,Yombe,yomb1244
+H16c_Yombe,H16c_Yombe,yom,Yombe,yomb1244
+H16d_Ciwoyo_DRC_2012,H16d_Ciwoyo_DRC_2012,yom,Yombe,yomb1244
+H16f_Laadi,H16f_Laadi,ldi,Laari,laar1238
+H16g_Kimpangu_2012,H16g_Kimpangu_2012,kng,Koongo,koon1244
+H16g_Ntandu,H16g_Ntandu,kng,Koongo,koon1244
+H16h_Kinkanu_2012,H16h_Kinkanu_2012,kng,Koongo,koon1244
+H16_Kikongo,H16_Kikongo,kng,Koongo,koon1244
+H16_Kimbata_Ngidinga,H16_Kimbata_Ngidinga,kng,Koongo,koon1244
+H16_Kimbeko,H16_Kimbeko,kng,Koongo,koon1244
+H21a_Kimbundu,H21a_Kimbundu,kmb,Kimbundu,kimb1241
+H31_Yaka,H31_Yaka,yaf,Yaka (Democratic Republic of Congo),yaka1269
+H321_Soonde,H321_Soonde,shc,Sonde,sond1250
+H32_Suku,H32_Suku,sub,Suku,suku1259
+H41_Mbala,H41_Mbala,mdp,Mbala,mbal1257
+H42_Hunganna,H42_Hunganna,hum,Hungana,hung1278
+JD53_Shi,JD53_Shi,shr,Shi,shii1238
+JD62_Rundi,JD62_Rundi,run,Rundi,rund1242
+JD64_Shubi,JD64_Shubi,suj,Shubi,shub1238
+JD65_Hangaza,JD65_Hangaza,han,Hangaza,hang1260
+JD66_Kiha,JD66_Kiha,haq,Ha,haaa1252
+JD67_Kivinza,JD67_Kivinza,vin,Vinza,vinz1238
+JE11_Runyoro,JE11_Runyoro,nyo,Nyoro,nyor1246
+JE12_Rutooro,JE12_Rutooro,ttj,Tooro,toor1238
+JE13_Runyankore,JE13_Runyankore,nyn,Nyankole,nyan1307
+JE14_Rukiga,JE14_Rukiga,cgg,Chiga,chig1238
+JE15_Luganda,JE15_Luganda,lug,Ganda,gand1255
+JE16_Lusoga,JE16_Lusoga,xog,Soga,soga1242
+JE17_Gwere,JE17_Gwere,gwr,Gwere,gwer1238
+JE21_Runyambo,JE21_Runyambo,now,Nyambo,nyam1277
+JE22_Haya,JE22_Haya,hay,Haya,haya1250
+JE23_Zinza,JE23_Zinza,zin,Zinza,zinz1238
+JE24_Kerebe,JE24_Kerebe,ked,Kerewe,kere1283
+JE25_Jita,JE25_Jita,jit,Jita,jita1239
+JE25_Kilegi,JE25_Kilegi,reg,Kara (Tanzania),kara1481
+JE25_Mkwaya,JE25_Mkwaya,kya,Kwaya,kway1241
+JE31c_Bukusu,JE31c_Bukusu,bxk,Bukusu,buku1249
+JE31_Lumasaaba,JE31_Lumasaaba,myx,Masaaba,masa1299
+JE32_Luyia,"JE32_Luyia",lsm,Saamia,saam1283
+JE34_Samialugwe,JE34_Samialugwe,lsm,Saamia,saam1283
+JE401_Ngoreme,JE401_Ngoreme,ngq,Ngurimi,ngur1263
+JE402_Ikizu,JE402_Ikizu,ikz,Ikizu,ikiz1238
+JE403_Suba,JE403_Suba,sxb,Suba,suba1238
+JE404_Shasi,JE404_Shasi,ikz,Ikizu,ikiz1238
+JE41_Maragoli,JE41_Maragoli,rag,Logooli,logo1258
+JE42_Gusii,JE42_Gusii,guz,Gusii,gusi1247
+JE43_Kuria,JE43_Kuria,kuj,Kuria,kuri1259
+JE43_Kuria_Mago,JE43_Kuria_Mago,kuj,Kuria,kuri1259
+JE43_Kuria_Tari,JE43_Kuria_Tari,kuj,Kuria,kuri1259
+JE44_Zanaki,JE44_Zanaki,zak,Zanaki,zana1238
+JE45_Nata,JE45_Nata,ntk,Ikoma-Nata-Isenye,ikom1245
+K11_Ciokwe,K11_Ciokwe,cjk,Chokwe,chok1245
+K14_Lwena,K14_Lwena,lue,Luvale,luva1239
+K15_Mbunda,K15_Mbunda,mck,Mbunda,mbun1249
+K21_Lozi,K21_Lozi,loz,Lozi,lozi1239
+K31_Luyana,K31_Luyana,lyn,Luyana,luya1241
+K332_Rumanyo,K332_Rumanyo,diu,Diriku,diri1252
+K33_Kwangali,K33_Kwangali,kwn,Kwangali,kwan1273
+Kom_Grassfields,Kom_Grassfields,bkm,Kom (Cameroon),komc1235
+Kulung_Jarawan,Kulung_Jarawan,bbu,Kulung (Nigeria),kulu1255
+L11_Pende,L11_Pende,pem,Phende,phen1239
+L12b_Holu,L12b_Holu,hol,Holu,holu1245
+L13_Kwese,L13_Kwese,kws,Kwese,kwes1244
+L221_Lwalwa,L221_Lwalwa,lwa,Lwalu,lwal1238
+L23_Songe,L23_Songe,sop,Songe,song1303
+L31a_Luba-Kasai,L31a_Luba-Kasai,lua,Luba-Lulua,luba1249
+L32_Kanyok,L32_Kanyok,kny,Kanyok,kany1247
+L33_Luba-Shaba,L33_Luba-Shaba,lub,Luba-Katanga,luba1250
+L34_Hemba,L34_Hemba,hem,Hemba,hemb1242
+L35_Sanga,L35_Sanga,sng,Sanga (Democratic Republic of Congo),sang1331
+L41_Kaonde,L41_Kaonde,kqn,Kaonde,kaon1241
+L51_Salampasu,L51_Salampasu,slx,Salampasu,sala1268
+L52_Lunda,L52_Lunda,lun,Lunda,lund1266
+L53_Runda,L53_Runda,rnd,Ruund,ruun1238
+L62_Nkoya,L62_Nkoya,nka,Nkoya,nkoy1244
+M11_Pimbwe,M11_Pimbwe,piw,Pimbwe,pimb1238
+M12_Lungwa,M12_Lungwa,rnw,Rungwa,rung1255
+M13_Fipa,M13_Fipa,fip,Fipa,fipa1238
+M14_Rungu,M14_Rungu,mgr,Mambwe-Lungu,mamb1296
+M15_Mambwe,M15_Mambwe,mgr,Mambwe-Lungu,mamb1296
+M21_Ndali,M21_Ndali,ndh,Ndali,ndal1241
+M21_Wanda,M21_Wanda,wbh,Wanda,wand1264
+M22_Namwanga,M22_Namwanga,mwn,Nyamwanga,nyam1275
+M23_Nyiha,M23_Nyiha,nih,Nyiha (Tanzania),nyih1240
+M24_Malila,M24_Malila,mgq,Malila,mali1279
+M25_Safwa,M25_Safwa,sbk,Safwa,safw1238
+M28_Lambya,M28_Lambya,lai,Lambya,lamb1272
+M31_Nyakyusa,M31_Nyakyusa,nyy,Nyakyusa-Ngonde,nyak1260
+M41_Taabwa,M41_Taabwa,tap,Taabwa,taab1238
+M42_Bemba,M42_Bemba,bem,Bemba (Zambia),bemb1257
+M52_Lala,M52_Lala,leb,Lala-Bisa,lala1264
+M54_Lamba,M54_Lamba,lam,Lamba,lamb1271
+M61_Lenje,M61_Lenje,leh,Lenje,lenj1248
+M62_Soli,M62_Soli,sby,Soli,soli1239
+M64_Tonga,M64_Tonga,toi,Tonga,tong1318
+Mbula_Jarawan,Mbula_Jarawan,mbu,Mbula-Bwazza,mbul1260
+Moghamo_Grassfields,Moghamo_Grassfields,mgo,Meta',meta1238
+Mungaka_Grassfields,Mungaka_Grassfields,mhk,Mungaka,mung1266
+N11_Manda,N11_Manda,mgs,Manda (Tanzania),mand1423
+N12_Ngoni,N12_Ngoni,ngo,Ngoni,ngon1269
+N13_Matengo,N13_Matengo,mgv,Matengo,mate1258
+N14_Mpoto,N14_Mpoto,mpa,Mpoto,mpot1240
+N21_Tumbuka_Malawi,N21_Tumbuka_Malawi,tum,Tumbuka,tumb1250
+N31_Chewa,N31_Chewa,nya,Nyanja,nyan1308
+N42_Kunda,N42_Kunda,kdn,Kunda (Sena),kund1255
+Njen_Grassfields,Njen_Grassfields,njj,Njen,njen1238
+Oku_Grassfields,Oku_Grassfields,oku,Oku (Cameroon),okuu1243
+P11_Ndengeleko,P11_Ndengeleko,ndg,Ndengereko,nden1248
+P12_Rufiji,P12_Rufiji,ndg,Ndengereko,nden1248
+P13_Matumbi,P13_Matumbi,mgw,Matumbi,matu1259
+P14_Ngindo,P14_Ngindo,nnq,Ngindo,ngin1244
+P15_Mbunga,P15_Mbunga,mgy,Mbunga,mbun1248
+P21_Yao,P21_Yao,yao,Yao,yaoo1241
+P22_Mwera,P22_Mwera,mwe,Mwera (Chimwera),mwer1248
+P23_Simakonde,P23_Simakonde,kde,Makonde,mako1251
+P25_Mabia,P25_Mabia,kde,Makonde,mako1251
+P31_Emakhua,P31_Emakhua,vmw,Makhuwa,makh1264
+P31G_Ikorovere,P31G_Ikorovere,mgh,Makhuwa-Meetto,makh1261
+R11_Umbundu,R11_Umbundu,umb,Umbundu,umbu1257
+R21_Kwanyama,R21_Kwanyama,kua,Kuanyama,kuan1247
+R22_Ndonga,R22_Ndonga,ndo,Ndonga,ndon1254
+R31_Herero,R31_Herero,her,Herero,here1253
+S11_Shona,S11_Shona,sna,Shona,shon1251
+S16_Kalanga,S16_Kalanga,kck,Kalanga,kala1384
+S21_Venda,S21_Venda,ven,Venda,vend1245
+S311_Shekgalagari,S311_Shekgalagari,xkv,Kgalagadi,kgal1244
+S31_Tswana,S31_Tswana,tsn,Tswana,tswa1253
+S41_Xhosa,S41_Xhosa,xho,Xhosa,xhos1239
+S42_Zulu,S42_Zulu,zul,Zulu,zulu1248
+S44_Ndebele,S44_Ndebele,nde,North Ndebele,nort2795
+S51_Tshwa,S51_Tshwa,tsc,Tswa,tswa1255
+S53_Tsonga,S53_Tsonga,tso,Tsonga,tson1249
+Tiv_Tivoid,Tiv_Tivoid,tiv,Tiv,tivv1240
+Zaambo_Jarawan,Zaambo_Jarawan,mbu,Mbula-Bwazza,mbul1260
