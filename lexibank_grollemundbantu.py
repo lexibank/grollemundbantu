@@ -51,7 +51,9 @@ class Dataset(BaseDataset):
     def cmd_install(self, **kw):
         language_map = {l['NAME']: l['GLOTTOCODE'] or None for l in self.languages}
         concept_map = {
-            x.english: x.concepticon_id for x in self.conceptlist.concepts.values()}
+            x.english: (x.concepticon_id, x.concepticon_gloss) for x
+            in self.conceptlist.concepts.values()
+        }
 
         data = OrderedDict()
 
@@ -108,7 +110,8 @@ class Dataset(BaseDataset):
                     ds.add_concept(
                         ID=slug(concept),
                         Name=concept,
-                        Concepticon_ID=concept_map.get(concept))
+                        Concepticon_ID=concept_map.get(concept)[0],
+                        Concepticon_Gloss=concept_map.get(concept)[1])
 
                     for row in ds.add_lexemes(
                             Language_ID=slug(lang['language']),
