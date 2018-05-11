@@ -36,7 +36,13 @@ class Dataset(BaseDataset):
             if i > 2:
                 rows.append(row)
         return header, rows
-
+    
+    def clean_form(self, item, form):
+        # Over ride clean_form to stop strip_brackets which messes lexemes like 
+        # "(ku)tanga" up
+        if form not in ['?']:
+            return form
+    
     @lazyproperty
     def tokenizer(self):
         return lambda x, y: clean_string_with_validation(y)
@@ -106,7 +112,7 @@ class Dataset(BaseDataset):
                         Name=concept,
                         Concepticon_ID=concepts.get(concept)[0],
                         Concepticon_Gloss=concepts.get(concept)[1])
-
+                    
                     for i, itm in enumerate(self.split_forms(item, item[0])):
                         # skip question marks and empty records
                         if itm == '?' or not itm:
