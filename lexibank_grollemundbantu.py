@@ -37,9 +37,6 @@ class Dataset(BaseDataset):
                 rows.append(row)
         return header, rows
 
-    def split_forms(self, row, value):
-        return BaseDataset.split_forms(self, row, value.split('\n')[0])
-
     @lazyproperty
     def tokenizer(self):
         return lambda x, y: clean_string_with_validation(y)
@@ -64,9 +61,6 @@ class Dataset(BaseDataset):
                 'objects': OrderedDict(zip(header[1:-2], row[1:-2])),
             }
 
-        ids = [slug(l['language']) for l in data.values()]
-        assert len(set(ids)) == len(ids)
-
         header, rows = self.read_csv('Multistate')
         for row in rows:
             ldata = data[row[0]]
@@ -79,6 +73,12 @@ class Dataset(BaseDataset):
                 ldata['objects'][glosses.get(concept, concept)] = (
                     ldata['objects'][glosses.get(concept, concept)],
                     csid)
+        
+        # preprocess problematic lexemes
+        self.lexemes = {  # wtf..
+             k.encode('latin1', 'backslashreplace').decode('unicode-escape'): v
+             for (k, v) in self.lexemes.items()
+        }
         
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
@@ -106,17 +106,23 @@ class Dataset(BaseDataset):
                         Name=concept,
                         Concepticon_ID=concepts.get(concept)[0],
                         Concepticon_Gloss=concepts.get(concept)[1])
-                    
-                    if '/' in item[0] or '\t' in item[0] or '  ' in item[0]:
-                        print(item)
-                    
-                    for row in ds.add_lexemes(
+
+                    for i, itm in enumerate(self.split_forms(item, item[0])):
+                        # skip question marks and empty records
+                        if itm == '?' or not itm:
+                            continue
+                        
+                        # add cognate only to the first form
+                        cogid = None
+                        if i == 0 and item[1] != '?':
+                            cogid = '%s-%s' % (cslug, item[1])
+                        
+                        for row in ds.add_lexemes(
                             Language_ID=slug(lang['language']),
                             Parameter_ID=cslug,
-                            Value=item[0],
+                            Value=itm,
                             Source=languages[lang['language']]['SOURCE'],
-                            Cognacy='%s-%s' % (cslug, item[1])):
-                        if item[1] != '?':
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID='%s-%s' % (cslug, item[1]))
+                            Cognacy=cogid if cogid else ''):
+                            
+                            if cogid:
+                                ds.add_cognate(lexeme=row, Cognateset_ID=cogid)
