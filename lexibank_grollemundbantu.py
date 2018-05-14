@@ -1,15 +1,11 @@
 # coding: utf8
-from __future__ import unicode_literals, print_function, division
+from __future__ import unicode_literals
 from collections import OrderedDict
-import re
 
 from clldutils.misc import slug, lazyproperty
 from clldutils.path import Path
-from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
 from lingpy.sequence.sound_classes import clean_string
-
-from pylexibank.util import split_by_year, get_reference
 
 
 def clean_string_with_validation(string):
@@ -40,23 +36,28 @@ class Dataset(BaseDataset):
             if i > 2:
                 rows.append(row)
         return header, rows
-
-    def split_forms(self, row, value):
-        return BaseDataset.split_forms(self, row, value.split('\n')[0])
-
+    
+    def clean_form(self, item, form):
+        # Over ride clean_form to stop strip_brackets which messes lexemes like 
+        # "(ku)tanga" up
+        if form not in ['?']:
+            return form
+    
     @lazyproperty
     def tokenizer(self):
         return lambda x, y: clean_string_with_validation(y)
 
     def cmd_install(self, **kw):
-        language_map = {l['NAME']: l['GLOTTOCODE'] or None for l in self.languages}
-        concept_map = {
-            x.english: x.concepticon_id for x in self.conceptlist.concepts.values()}
+        languages = {l['NAME']: l for l in self.languages}
+        concepts = {
+            x.english: (x.concepticon_id, x.concepticon_gloss) for x
+            in self.conceptlist.concepts.values()
+        }
 
         data = OrderedDict()
 
         # The english concept labels in the two excel sheets differ in one place:
-        gloss_map = {'road/path': 'road'}
+        glosses = {'road/path': 'road'}
 
         header, rows = self.read_csv('Data')
         for row in rows:
@@ -65,9 +66,6 @@ class Dataset(BaseDataset):
                 'source': row[-1],
                 'objects': OrderedDict(zip(header[1:-2], row[1:-2])),
             }
-
-        ids = [slug(l['language']) for l in data.values()]
-        assert len(set(ids)) == len(ids)
 
         header, rows = self.read_csv('Multistate')
         for row in rows:
@@ -78,62 +76,59 @@ class Dataset(BaseDataset):
                     csid = '%s' % int(float(csid))
                 except ValueError:
                     assert csid == '?'
-                ldata['objects'][gloss_map.get(concept, concept)] = (
-                    ldata['objects'][gloss_map.get(concept, concept)],
+                ldata['objects'][glosses.get(concept, concept)] = (
+                    ldata['objects'][glosses.get(concept, concept)],
                     csid)
-
-        sources = {}
+        
+        # preprocess problematic lexemes
+        self.lexemes = {  # wtf..
+             k.encode('latin1', 'backslashreplace').decode('unicode-escape'): v
+             for (k, v) in self.lexemes.items()
+        }
+        
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
+
             for lang in data.values():
-                if not language_map[lang['language']]:
+                if not languages[lang['language']]:
                     self.unmapped.add_language(name=lang['language'])
-                ref = ''
-                if lang['source']:
-                    ref = get_ref(lang, sources)
-                    if ref:
-                        ds.add_sources(ref.source)
-                        ref = '%s' % ref
 
                 ds.add_language(
                     ID=slug(lang['language']),
                     Name=lang['language'],
-                    Glottocode=language_map[lang['language']])
+                    Glottolog_Name=languages[lang['language']]['GLOTTOLOG_NAME'],
+                    Glottocode=languages[lang['language']]['GLOTTOCODE'],
+                    ISO639P3code=languages[lang['language']]['ISO'])
 
                 for concept, item in lang['objects'].items():
-                    if concept not in concept_map:
+                    if concept not in concepts:
                         self.unmapped.add_concept(id=slug(concept), name=concept)
                     if not item[0]:
                         continue
 
+                    cslug = slug(concept)
                     ds.add_concept(
-                        ID=slug(concept),
+                        ID=cslug,
                         Name=concept,
-                        Concepticon_ID=concept_map.get(concept))
-
-                    for row in ds.add_lexemes(
+                        Concepticon_ID=concepts.get(concept)[0],
+                        Concepticon_Gloss=concepts.get(concept)[1])
+                    
+                    for i, itm in enumerate(self.split_forms(item, item[0])):
+                        # skip question marks and empty records
+                        if itm == '?' or not itm:
+                            continue
+                        
+                        # add cognate only to the first form
+                        cogid = None
+                        if i == 0 and item[1] != '?':
+                            cogid = '%s-%s' % (cslug, item[1])
+                        
+                        for row in ds.add_lexemes(
                             Language_ID=slug(lang['language']),
-                            Parameter_ID=slug(concept),
-                            Value=item[0],
-                            Source=[ref],
-                            Cognacy=item[1]):
-                        if item[1] != '?':
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID='%s-%s' % (slug(concept), item[1]))
-
-PAGES_PATTERN = re.compile('\s+p\.?\s*(?P<pages>[0-9]+)\.$')
-
-
-def get_ref(lang, sources):
-    pages = None
-    src = lang['source'].strip()
-    if src.startswith('Collectors:'):
-        src = lang['source'].split('Collectors:')[1].strip()
-
-    match = PAGES_PATTERN.search(src)
-    if match:
-        pages = match.group('pages')
-        src = src[:match.start()].strip()
-
-    author, year, src = split_by_year(src)
-    return get_reference(author, year, src, pages, sources)
+                            Parameter_ID=cslug,
+                            Value=itm,
+                            Source=languages[lang['language']]['SOURCE'],
+                            Cognacy=cogid if cogid else ''):
+                            
+                            if cogid:
+                                ds.add_cognate(lexeme=row, Cognateset_ID=cogid)
