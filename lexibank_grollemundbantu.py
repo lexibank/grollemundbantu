@@ -82,7 +82,7 @@ class Dataset(BaseDataset):
         
         # preprocess problematic lexemes
         self.lexemes = {  # wtf..
-             k.encode('latin1', 'backslashreplace').decode('unicode-escape'): v
+             k.encode('latin1', 'backslashreplace').decode('unicode-escape').lstrip(): v
              for (k, v) in self.lexemes.items()
         }
         
@@ -105,7 +105,7 @@ class Dataset(BaseDataset):
                         self.unmapped.add_concept(id=slug(concept), name=concept)
                     if not item[0]:
                         continue
-
+                    
                     cslug = slug(concept)
                     ds.add_concept(
                         ID=cslug,
