@@ -6,7 +6,9 @@
     "dc:identifier": "http://www.evolution.reading.ac.uk/DataSets.html",
     "dc:source": "sources.bib",
     "dc:title": "Grollemund Bantu Database",
+    "dcat:accessURL": "https://github.com/lexibank/grollemundbantu",
     "rdf:ID": "grollemundbantu",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -14,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "v1.1.0-48-ga51f8de",
-                "glottolog_version": "v3.2-35-g0c8091da5c"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
@@ -153,6 +155,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [
@@ -199,7 +205,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

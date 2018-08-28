@@ -16,6 +16,7 @@ child,child,2099,CHILD
 cloud,cloud,1489,CLOUD
 come,come,1446,COME
 count,count,1420,COUNT
+dew,dew,1977,DEW
 die,die,1494,DIE
 dog,dog,2009,DOG
 drink,drink,1401,DRINK
@@ -46,6 +47,7 @@ horn,horn,1393,HORN (ANATOMY)
 house,house,1252,HOUSE
 hunger,hunger,1864,HUNGER
 intestine,intestine,1991,INTESTINES
+iron,iron,621,IRON
 kill,kill,1417,KILL
 knee,knee,1371,KNEE
 knife,knife,1352,KNIFE
@@ -97,5 +99,3 @@ war,war,935,WAR
 water,water,948,WATER
 wind,wind,960,WIND
 woman,woman,962,WOMAN
-dew,dew,1977,DEW
-iron,iron,621,IRON

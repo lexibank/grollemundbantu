@@ -4,19 +4,28 @@ from collections import OrderedDict
 
 from clldutils.misc import slug, lazyproperty
 from clldutils.path import Path
-from pylexibank.dataset import Dataset as BaseDataset
+import attr
+
+from pylexibank.dataset import Dataset as BaseDataset, Language as BaseLanguage
 from lingpy.sequence.sound_classes import clean_string
 
 
-def clean_string_with_validation(string):
+@attr.s
+class Language(BaseLanguage):
+    Source = attr.ib(default=None)
+
+
+def clean_string_with_validation(kw, string):
     try:
-        return clean_string(string)
+        return clean_string(string)[0].split()
     except IndexError:
         return []
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'grollemundbantu'
+    language_class = Language
     DSET = 'Grollemund-et-al_Bantu-database_2015'
 
     def cmd_download(self, **kw):
@@ -45,10 +54,10 @@ class Dataset(BaseDataset):
     
     @lazyproperty
     def tokenizer(self):
-        return lambda x, y: clean_string_with_validation(y)
+        return clean_string_with_validation
 
     def cmd_install(self, **kw):
-        languages = {l['NAME']: l for l in self.languages}
+        sources = {l['Name']: l['Source'] for l in self.languages}
         concepts = {
             x.english: (x.concepticon_id, x.concepticon_gloss) for x
             in self.conceptlist.concepts.values()
@@ -87,25 +96,19 @@ class Dataset(BaseDataset):
         }
         
         with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
+            ds.add_sources()
+            languages = ds.add_languages(id_factory=lambda l: slug(l['Name']))
 
-            for lang in data.values():
-                if not languages[lang['language']]:
-                    self.unmapped.add_language(name=lang['language'])
+            for _, lang in sorted(data.items()):
+                if lang['language'] not in languages:
+                    self.unmapped.add_language(Name=lang['language'])
 
-                ds.add_language(
-                    ID=slug(lang['language']),
-                    Name=lang['language'],
-                    Glottolog_Name=languages[lang['language']]['GLOTTOLOG_NAME'],
-                    Glottocode=languages[lang['language']]['GLOTTOCODE'],
-                    ISO639P3code=languages[lang['language']]['ISO'])
-
-                for concept, item in lang['objects'].items():
+                for concept, item in sorted(lang['objects'].items()):
                     if concept not in concepts:
                         self.unmapped.add_concept(id=slug(concept), name=concept)
                     if not item[0]:
                         continue
-                    
+
                     cslug = slug(concept)
                     ds.add_concept(
                         ID=cslug,
@@ -127,7 +130,7 @@ class Dataset(BaseDataset):
                             Language_ID=slug(lang['language']),
                             Parameter_ID=cslug,
                             Value=itm,
-                            Source=languages[lang['language']]['SOURCE'],
+                            Source=sources[lang['language']],
                             Cognacy=cogid if cogid else ''):
                             
                             if cogid:

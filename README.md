@@ -41,8 +41,8 @@ From Harald Hammarström:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 0%](https://img.shields.io/badge/BIPA-0%25-red.svg "BIPA: 0%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 58%](https://img.shields.io/badge/BIPA-58%25-red.svg "BIPA: 58%")
+![CLTS SoundClass: 57%](https://img.shields.io/badge/CLTS%20SoundClass-57%25-red.svg "CLTS SoundClass: 57%")
 
 - **Varieties:** 424
 - **Concepts:** 100
@@ -50,6 +50,6 @@ From Harald Hammarström:
 - **Synonymy:** 1.00
 - **Cognacy:** 35,920 cognates in 2,059 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 37,806
-- **Segments:** 24,794 (24774 BIPA errors, 10 CTLS sound class errors, 20 CLTS modified)
-- **Inventory size (avg):** 88.39
+- **Tokens:** 181,026
+- **Segments:** 999 (423 BIPA errors, 430 CTLS sound class errors, 575 CLTS modified)
+- **Inventory size (avg):** 44.65
