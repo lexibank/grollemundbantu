@@ -35,7 +35,7 @@ pyglottolog==3.0.0
 -e git+https://github.com/xrotwang/lexirumah-data.git@5d4362e9d041ce6c732e9c10be7454dcf3875375#egg=pylexirumah
 pytest==3.6.1
 regex==2018.2.21
-requests==2.18.4
+requests==2.20.0
 rfc3986==1.1.0
 segments==2.1.3
 six==1.11.0
