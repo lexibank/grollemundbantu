@@ -6,8 +6,9 @@ Cite the source dataset as
 
 Available online at http://www.evolution.reading.ac.uk/DataSets.html
 
-Conceptlist in Concepticon: [Grollemund-2015-100](http://concepticon.clld.org/contributions/Grollemund-2015-100)
 
+Conceptlists in Concepticon:
+- [Grollemund-2015-100](https://concepticon.clld.org/contributions/Grollemund-2015-100)
 ## Notes
 
 
@@ -37,19 +38,20 @@ From Harald Hammarström:
 ## Statistics
 
 
-
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 58%](https://img.shields.io/badge/BIPA-58%25-red.svg "BIPA: 58%")
-![CLTS SoundClass: 57%](https://img.shields.io/badge/CLTS%20SoundClass-57%25-red.svg "CLTS SoundClass: 57%")
+![CLTS SoundClass: 58%](https://img.shields.io/badge/CLTS%20SoundClass-58%25-red.svg "CLTS SoundClass: 58%")
 
 - **Varieties:** 424
 - **Concepts:** 100
 - **Lexemes:** 37,765
+- **Sources:** 217
 - **Synonymy:** 1.00
-- **Cognacy:** 35,920 cognates in 2,059 cognate sets
+- **Cognacy:** 37,714 cognates in 3,853 cognate sets (1,794 singletons)
+- **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
 - **Tokens:** 181,026
-- **Segments:** 999 (423 BIPA errors, 430 CTLS sound class errors, 575 CLTS modified)
+- **Segments:** 999 (421 BIPA errors, 421 CTLS sound class errors, 577 CLTS modified)
 - **Inventory size (avg):** 44.65
