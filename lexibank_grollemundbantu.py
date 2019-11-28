@@ -37,7 +37,7 @@ class Dataset(BaseDataset):
             self.DSET + '.xlsx',
             log=args.log)
         self.raw_dir.xls2csv(self.DSET + '.xlsx')
-        self.raw_dir.remove(self.DSET + '.xlsx')
+        self.raw_dir.joinpath(self.DSET + '.xlsx').unlink()
 
     def read_csv(self, type_, **kw):
         header, rows = None, []
