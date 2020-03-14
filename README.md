@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Grollemund, Rebecca, Branford, Simon, Bostoen, Koen, Meade, Andrew, Venditti, Chris, & Pagel, Mark (2015) Bantu expansion shows habitat alters the route and pace of human dispersals. Proc Natl Acad Sci USA. doi:10.1073/pnas.1503793112.
 
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
 Available online at http://www.evolution.reading.ac.uk/DataSets.html
 
 
