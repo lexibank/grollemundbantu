@@ -20,7 +20,6 @@ class Dataset(BaseDataset):
     language_class = Language
     DSET = "Grollemund-et-al_Bantu-database_2015"
     form_spec = FormSpec(
-        brackets={"(": ")"},
         separators="~,;/",
         # Don't mess up lexemes like "(ku)tanga"
         strip_inside_brackets=False,
