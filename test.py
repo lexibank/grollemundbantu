@@ -20,12 +20,6 @@ def test_forms(cldf_dataset, cldf_logger):  # SLOW
     # file for this language, so check it explicitly.
     assert _get("woman", "b78wuumu")[0]["Form"] == "mukáát"
 
-    # E72a_Giryama, night was:
-    # "baba	/ babayo	/ babaye	/ babiyehu	/ babiyenu baba mutu : a ..
-    m = _get("night", "e72agiryama")
-    assert len(m) == 1, "should only have one entry for E72a_Giryama/night"
-    assert m[0]["Form"] == "baba"
-
 
 def test_no_empty_forms(cldf_dataset, cldf_logger):
     # incorrect parsing of the excel file lead to empty languages or
