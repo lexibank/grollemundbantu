@@ -5,46 +5,46 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 19674 | ✓ | ✓ |
-| i | 16085 | ✓ | ✓ |
-| u | 14118 | ✓ | ✓ |
-| m | 13482 | ✓ | ✓ |
-| n | 11485 | ✓ | ✓ |
-| o | 9860 | ✓ | ✓ |
+| a | 19661 | ✓ | ✓ |
+| i | 16084 | ✓ | ✓ |
+| u | 14103 | ✓ | ✓ |
+| m | 13480 | ✓ | ✓ |
+| n | 11480 | ✓ | ✓ |
+| o | 9857 | ✓ | ✓ |
 | k | 9787 | ✓ | ✓ |
-| l | 8748 | ✓ | ✓ |
+| l | 8750 | ✓ | ✓ |
 | + | 7168 | ✓ | ✓ |
-| e | 6881 | ✓ | ✓ |
+| e | 6880 | ✓ | ✓ |
 | b | 5967 | ✓ | ✓ |
 | t | 5225 | ✓ | ✓ |
 | w | 5126 | ✓ | ✓ |
 | j | 4480 | ✓ | ✓ |
-| g | 4108 | ✓ | ✓ |
+| g | 4105 | ✓ | ✓ |
 | s | 3843 | ✓ | ✓ |
 | d | 3637 | ✓ | ✓ |
-| r | 2917 | ✓ | ✓ |
-| á/a | 2745 | ✓ | ✓ |
+| r | 2916 | ✓ | ✓ |
+| á/a | 2744 | ✓ | ✓ |
 | h | 2435 | ✓ | ✓ |
 | ŋ | 2041 | ✓ | ✓ |
 | í/i | 2038 | ✓ | ✓ |
-| ɔ | 1937 | ✓ | ✓ |
+| ɔ | 1936 | ✓ | ✓ |
 | ɲ | 1843 | ✓ | ✓ |
 | p | 1803 | ✓ | ✓ |
 | ú/u | 1785 | ✓ | ✓ |
 | à/a | 1751 | ✓ | ✓ |
 | z | 1646 | ✓ | ✓ |
-| ɛ | 1546 | ✓ | ✓ |
+| ɛ | 1545 | ✓ | ✓ |
 | ó/o | 1391 | ✓ | ✓ |
-| v | 1220 | ✓ | ✓ |
+| v | 1218 | ✓ | ✓ |
 | ì/i | 1214 | ✓ | ✓ |
 | f | 1193 | ✓ | ✓ |
 | é/e | 1121 | ✓ | ✓ |
 | ù/u | 1014 | ✓ | ✓ |
-| ò/o | 905 | ✓ | ✓ |
-| ɣ | 877 | ✓ | ✓ |
+| ò/o | 904 | ✓ | ✓ |
+| ɣ | 876 | ✓ | ✓ |
 | ɔ́/ɔ | 789 | ✓ | ✓ |
 | c | 770 | ✓ | ✓ |
-| ə | 628 | ✓ | ✓ |
+| ə | 621 | ✓ | ✓ |
 | ɛ́/ɛ | 600 | ✓ | ✓ |
 | è/e | 586 | ✓ | ✓ |
 | ɔ̀/ɔ | 547 | ✓ | ✓ |
@@ -75,8 +75,8 @@
 | ɨ́/ɨ | 90 | ✓ | ✓ |
 | î/i | 87 | ✓ | ✓ |
 | ê/e | 86 | ✓ | ✓ |
-| ā/a | 74 | ✓ | ✓ |
 | ī/i | 73 | ✓ | ✓ |
+| ā/a | 71 | ✓ | ✓ |
 | ʒ | 70 | ✓ | ✓ |
 | m̀/m | 66 | ✓ | ✓ |
 | x | 65 | ✓ | ✓ |
@@ -97,8 +97,8 @@
 | ù̧/u | 47 | ✓ | ✓ |
 | ɟ | 44 | ✓ | ✓ |
 | ɔ̌/ɔ | 43 | ✓ | ✓ |
-| á:/aː | 41 | ✓ | ✓ |
 | l̪ | 40 | ✓ | ✓ |
+| á:/aː | 40 | ✓ | ✓ |
 | áː/aː | 40 | ✓ | ✓ |
 | ã | 38 | ✓ | ✓ |
 | í̧/i | 38 | ✓ | ✓ |
@@ -123,8 +123,8 @@
 | ʈ | 26 | ✓ | ✓ |
 | t̪ | 25 | ✓ | ✓ |
 | íː/iː | 25 | ✓ | ✓ |
-| ú:/uː | 25 | ✓ | ✓ |
 | iː | 24 | ✓ | ✓ |
+| ú:/uː | 24 | ✓ | ✓ |
 | d̪ | 23 | ✓ | ✓ |
 | i̧/i | 23 | ✓ | ✓ |
 | kʰ | 23 | ✓ | ✓ |
@@ -133,9 +133,7 @@
 | uː | 22 | ✓ | ✓ |
 | n̩ | 21 | ✓ | ✓ |
 | ɔ̃ | 21 | ✓ | ✓ |
-| <<̱>> | 20 | ? | ? |
 | pʰ | 20 | ✓ | ✓ |
-| <<̥>> | 19 | ? | ? |
 | d˺/d | 19 | ✓ | ✓ |
 | ó̱/o | 19 | ✓ | ✓ |
 | ɱ | 19 | ✓ | ✓ |
@@ -173,7 +171,6 @@
 | oː | 11 | ✓ | ✓ |
 | w̃ | 11 | ✓ | ✓ |
 | ì:/iː | 11 | ✓ | ✓ |
-| ù:/uː | 11 | ✓ | ✓ |
 | ɔ́:/ɔː | 11 | ✓ | ✓ |
 | ə̌/ə | 11 | ✓ | ✓ |
 | ɺ | 11 | ✓ | ✓ |
@@ -182,23 +179,25 @@
 | g˺/g | 10 | ✓ | ✓ |
 | n̂/n | 10 | ✓ | ✓ |
 | r̥ | 10 | ✓ | ✓ |
-| tɬ | 10 | ✓ | ✓ |
 | tɬʰ | 10 | ✓ | ✓ |
 | tʷ | 10 | ✓ | ✓ |
+| u̱/u | 10 | ✓ | ✓ |
+| ù:/uː | 10 | ✓ | ✓ |
 | ɔː | 10 | ✓ | ✓ |
 | ɔ̀ː/ɔː | 10 | ✓ | ✓ |
 | ʉ̂/ʉ | 10 | ✓ | ✓ |
 | ṅ/n | 10 | ✓ | ✓ |
+| a̱/a | 9 | ✓ | ✓ |
 | dʲ | 9 | ✓ | ✓ |
 | e̱/e | 9 | ✓ | ✓ |
 | o̍/o | 9 | ✓ | ✓ |
+| tɬ | 9 | ✓ | ✓ |
 | íˀ/iˀ | 9 | ✓ | ✓ |
 | ɮ | 9 | ✓ | ✓ |
 | ɷ́/ʊ | 9 | ✓ | ✓ |
 | ʌ́/ʌ | 9 | ✓ | ✓ |
 | θ | 9 | ✓ | ✓ |
 | i̍/i | 8 | ✓ | ✓ |
-| q | 8 | ✓ | ✓ |
 | t̪ʰ | 8 | ✓ | ✓ |
 | u̧/u | 8 | ✓ | ✓ |
 | èː/eː | 8 | ✓ | ✓ |
@@ -210,8 +209,8 @@
 | ɩ̌/i | 8 | ✓ | ✓ |
 | χ | 8 | ✓ | ✓ |
 | ḁ/a | 8 | ✓ | ✓ |
-| <<̭>> | 7 | ? | ? |
 | dʰ | 7 | ✓ | ✓ |
+| q | 7 | ✓ | ✓ |
 | rʲ | 7 | ✓ | ✓ |
 | è:/eː | 7 | ✓ | ✓ |
 | ìː/iː | 7 | ✓ | ✓ |
@@ -232,6 +231,7 @@
 | ɑ̀/ɑ | 6 | ✓ | ✓ |
 | ɖʐ | 6 | ✓ | ✓ |
 | ɘ̀/ɘ | 6 | ✓ | ✓ |
+| ə̥/ə | 6 | ✓ | ✓ |
 | ɨ̂/ɨ | 6 | ✓ | ✓ |
 | ʊ̌/ʊ | 6 | ✓ | ✓ |
 | ʌ̀/ʌ | 6 | ✓ | ✓ |
@@ -239,6 +239,7 @@
 | lʷ | 5 | ✓ | ✓ |
 | m̄/m | 5 | ✓ | ✓ |
 | sʲ | 5 | ✓ | ✓ |
+| u̥/u | 5 | ✓ | ✓ |
 | á:̀/aː | 5 | ✓ | ✓ |
 | ò̱/o | 5 | ✓ | ✓ |
 | ó:̀/oː | 5 | ✓ | ✓ |
@@ -253,7 +254,6 @@
 | ɲ̀/ɲ | 5 | ✓ | ✓ |
 | ʈʰ | 5 | ✓ | ✓ |
 | ʉ̌/ʉ | 5 | ✓ | ✓ |
-| <<́>> | 4 | ? | ? |
 | mʰ | 4 | ✓ | ✓ |
 | n̍/n | 4 | ✓ | ✓ |
 | tʃʰ | 4 | ✓ | ✓ |
@@ -280,12 +280,12 @@
 | ɪ́/ɪ | 4 | ✓ | ✓ |
 | ḷ/l | 4 | ✓ | ✓ |
 | ẁ/w | 4 | ✓ | ✓ |
-| <<#>> | 3 | ? | ? |
 | aˀ | 3 | ✓ | ✓ |
 | bʲ | 3 | ✓ | ✓ |
 | i̋/i | 3 | ✓ | ✓ |
 | i̪/i | 3 | ✓ | ✓ |
 | lˀ | 3 | ✓ | ✓ |
+| n̥ | 3 | ✓ | ✓ |
 | u̪/u | 3 | ✓ | ✓ |
 | â:/aː | 3 | ✓ | ✓ |
 | æ̀/æ | 3 | ✓ | ✓ |
@@ -312,18 +312,12 @@
 | ṍ/õ | 3 | ✓ | ✓ |
 | ẃ/w | 3 | ✓ | ✓ |
 | ỳ/j | 3 | ✓ | ✓ |
-| <<1>> | 2 | ? | ? |
-| <<´>> | 2 | ? | ? |
-| <<ǀ>> | 2 | ? | ? |
-| <<ˀ>> | 2 | ? | ? |
-| <<ˋ>> | 2 | ? | ? |
-| <<̀>> | 2 | ? | ? |
-| <<᷆>> | 2 | ? | ? |
-| <<ṟ>> | 2 | ? | ? |
+| a̭/a | 2 | ✓ | ✓ |
 | a̰:/ãː | 2 | ✓ | ✓ |
 | dʷ | 2 | ✓ | ✓ |
 | e̍:/eː | 2 | ✓ | ✓ |
 | gʲ | 2 | ✓ | ✓ |
+| g̊ | 2 | ✓ | ✓ |
 | i᷇/i | 2 | ✓ | ✓ |
 | kʲ | 2 | ✓ | ✓ |
 | lʰ | 2 | ✓ | ✓ |
@@ -331,9 +325,11 @@
 | lᶣ | 2 | ✓ | ✓ |
 | nʱ | 2 | ✓ | ✓ |
 | n̩̩/n̩ | 2 | ✓ | ✓ |
+| o̭/o | 2 | ✓ | ✓ |
 | r̋/r | 2 | ✓ | ✓ |
 | sʷ | 2 | ✓ | ✓ |
 | tsʰ | 2 | ✓ | ✓ |
+| ´n/n | 2 | ✓ | ✓ |
 | à̀/a | 2 | ✓ | ✓ |
 | éˀ/eˀ | 2 | ✓ | ✓ |
 | é̄/e | 2 | ✓ | ✓ |
@@ -353,6 +349,7 @@
 | ŏ/o | 2 | ✓ | ✓ |
 | ŗ/r | 2 | ✓ | ✓ |
 | ŵ/w | 2 | ✓ | ✓ |
+| ǀ | 2 | ✓ | ✓ |
 | ǽ/æ | 2 | ✓ | ✓ |
 | ǽˀ/æˀ | 2 | ✓ | ✓ |
 | ȳ/y | 2 | ✓ | ✓ |
@@ -383,37 +380,30 @@
 | ɲ̩ | 2 | ✓ | ✓ |
 | ɹ | 2 | ✓ | ✓ |
 | ʃʷ | 2 | ✓ | ✓ |
-| ʉ̃ | 2 | ✓ | ✓ |
 | ʊ̃ | 2 | ✓ | ✓ |
 | ʊ̃/ʊ̃ | 2 | ✓ | ✓ |
 | ʊ̄/ʊ | 2 | ✓ | ✓ |
 | ʌ | 2 | ✓ | ✓ |
 | ḙ/e | 2 | ✓ | ✓ |
+| ṟ/r | 2 | ✓ | ✓ |
 | ẽ́/ẽ | 2 | ✓ | ✓ |
 | ́/ə | 2 | ✓ | ✓ |
-| <<B>> | 1 | ? | ? |
-| <<L>> | 1 | ? | ? |
-| <<V>> | 1 | ? | ? |
-| <<ʰ>> | 1 | ? | ? |
-| <<ʱ>> | 1 | ? | ? |
-| <<ʷ>> | 1 | ? | ? |
-| <<ː>> | 1 | ? | ? |
-| <<̄>> | 1 | ? | ? |
-| <<̌>> | 1 | ? | ? |
-| <<̍>> | 1 | ? | ? |
-| <<̝>> | 1 | ? | ? |
-| <<̠>> | 1 | ? | ? |
-| <<̰>> | 1 | ? | ? |
-| <<᷄>> | 1 | ? | ? |
-| <<’>> | 1 | ? | ? |
+| B/b | 1 | ✓ | ✓ |
+| L/l | 1 | ✓ | ✓ |
+| V/v | 1 | ✓ | ✓ |
 | a̋/a | 1 | ✓ | ✓ |
+| a̝/a | 1 | ✓ | ✓ |
 | a̧/a | 1 | ✓ | ✓ |
+| a᷆/a | 1 | ✓ | ✓ |
 | bʰ | 1 | ✓ | ✓ |
 | b̪ | 1 | ✓ | ✓ |
 | dʒʲ | 1 | ✓ | ✓ |
+| e᷄/e | 1 | ✓ | ✓ |
 | fʲ | 1 | ✓ | ✓ |
+| gʱ | 1 | ✓ | ✓ |
 | hʷ | 1 | ✓ | ✓ |
 | iˀ | 1 | ✓ | ✓ |
+| i̥/i | 1 | ✓ | ✓ |
 | i͞/i | 1 | ✓ | ✓ |
 | j̀/j | 1 | ✓ | ✓ |
 | j̍/j | 1 | ✓ | ✓ |
@@ -423,25 +413,35 @@
 | l̠/l | 1 | ✓ | ✓ |
 | l̰/l | 1 | ✓ | ✓ |
 | mː | 1 | ✓ | ✓ |
+| m̥ | 1 | ✓ | ✓ |
+| m̭/m | 1 | ✓ | ✓ |
 | nʷ | 1 | ✓ | ✓ |
 | n̏/n | 1 | ✓ | ✓ |
 | o᷅/o | 1 | ✓ | ✓ |
+| o᷆/o | 1 | ✓ | ✓ |
 | pʲ | 1 | ✓ | ✓ |
 | pʼ | 1 | ✓ | ✓ |
+| qʰ | 1 | ✓ | ✓ |
+| r̭/r | 1 | ✓ | ✓ |
 | s̆/s | 1 | ✓ | ✓ |
 | s̍/s | 1 | ✓ | ✓ |
 | s̪ | 1 | ✓ | ✓ |
 | tsʼ | 1 | ✓ | ✓ |
+| tɬʼ | 1 | ✓ | ✓ |
 | tʃʼ | 1 | ✓ | ✓ |
 | u̧:/uː | 1 | ✓ | ✓ |
 | u͞/u | 1 | ✓ | ✓ |
 | vː | 1 | ✓ | ✓ |
+| v́/v | 1 | ✓ | ✓ |
+| v̱/v | 1 | ✓ | ✓ |
 | w̎/w | 1 | ✓ | ✓ |
 | w̪/w | 1 | ✓ | ✓ |
 | zʷ | 1 | ✓ | ✓ |
 | z̀/z | 1 | ✓ | ✓ |
 | à́/a | 1 | ✓ | ✓ |
+| á:́/aː | 1 | ✓ | ✓ |
 | á̍/a | 1 | ✓ | ✓ |
+| á̠/a | 1 | ✓ | ✓ |
 | á̰/ã | 1 | ✓ | ✓ |
 | âˀ/aˀ | 1 | ✓ | ✓ |
 | æ | 1 | ✓ | ✓ |
@@ -458,15 +458,21 @@
 | î̧/i | 1 | ✓ | ✓ |
 | ò:̀/oː | 1 | ✓ | ✓ |
 | ò̀/o | 1 | ✓ | ✓ |
+| ò́/o | 1 | ✓ | ✓ |
 | õ̱/õ | 1 | ✓ | ✓ |
 | ø̀/ø | 1 | ✓ | ✓ |
+| ù:̀/uː | 1 | ✓ | ✓ |
 | ù̀/u | 1 | ✓ | ✓ |
 | ù’/uˀ | 1 | ✓ | ✓ |
+| ú:́/uː | 1 | ✓ | ✓ |
 | ú́/u | 1 | ✓ | ✓ |
 | ú̧̍/u | 1 | ✓ | ✓ |
 | û:/uː | 1 | ✓ | ✓ |
 | ü̑/y | 1 | ✓ | ✓ |
 | ā:̀/aː | 1 | ✓ | ✓ |
+| āˀ/aˀ | 1 | ✓ | ✓ |
+| āˋ/a | 1 | ✓ | ✓ |
+| āˋˀ/aˀ | 1 | ✓ | ✓ |
 | ē:/eː | 1 | ✓ | ✓ |
 | ě̱/e | 1 | ✓ | ✓ |
 | ĭ̀/i | 1 | ✓ | ✓ |
@@ -480,7 +486,7 @@
 | ŭ:/uː | 1 | ✓ | ✓ |
 | ű/u | 1 | ✓ | ✓ |
 | Ʒ/ʒ | 1 | ✓ | ✓ |
-| ǀ | 1 | ✓ | ✓ |
+| ǀ̃ | 1 | ✓ | ✓ |
 | ǎ:/aː | 1 | ✓ | ✓ |
 | ǖ/y | 1 | ✓ | ✓ |
 | ȉ/i | 1 | ✓ | ✓ |
@@ -489,6 +495,7 @@
 | ɑ̃ | 1 | ✓ | ✓ |
 | ɔ̀:̀/ɔː | 1 | ✓ | ✓ |
 | ɔ̃̀/ɔ̃ | 1 | ✓ | ✓ |
+| ɔ̥/ɔ | 1 | ✓ | ✓ |
 | ɔ̰́/ɔ̃ | 1 | ✓ | ✓ |
 | ɔ̱́/ɔ | 1 | ✓ | ✓ |
 | ɕ | 1 | ✓ | ✓ |
@@ -502,6 +509,8 @@
 | ə́̍/ə | 1 | ✓ | ✓ |
 | ə̂ˀ/əˀ | 1 | ✓ | ✓ |
 | ə̍/ə | 1 | ✓ | ✓ |
+| ə̭/ə | 1 | ✓ | ✓ |
+| ɛː | 1 | ✓ | ✓ |
 | ɛ̀̄/ɛ | 1 | ✓ | ✓ |
 | ɛ́̍/ɛ | 1 | ✓ | ✓ |
 | ɛ̄ˀ/ɛˀ | 1 | ✓ | ✓ |
@@ -510,6 +519,7 @@
 | ɛ̏/ɛ | 1 | ✓ | ✓ |
 | ɛ᷆/ɛ | 1 | ✓ | ✓ |
 | ɡ̀/g | 1 | ✓ | ✓ |
+| ɣʷ | 1 | ✓ | ✓ |
 | ɨ̀ˀ/ɨˀ | 1 | ✓ | ✓ |
 | ɨ̧́/ɨ | 1 | ✓ | ✓ |
 | ɩ́:/ɪː | 1 | ✓ | ✓ |
@@ -527,6 +537,8 @@
 | ʃː | 1 | ✓ | ✓ |
 | ʉ́̀/ʉ | 1 | ✓ | ✓ |
 | ʉ̂:/ʉː | 1 | ✓ | ✓ |
+| ʉ̃ | 1 | ✓ | ✓ |
+| ʉ̰̄/ũ | 1 | ✓ | ✓ |
 | ʋ́/ⱱ | 1 | ✓ | ✓ |
 | ʌ̃̀ | 1 | ✓ | ✓ |
 | ʌ̄/ʌ | 1 | ✓ | ✓ |
@@ -549,7 +561,7 @@
 | ↄ̰́:/ɔ̃ː | 1 | ✓ | ✓ |
 | /ə | 1 | ✓ | ✓ |
 
-(543 rows)
+(555 rows)
 
 
 
@@ -565,80 +577,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------|:-------------------|:-----------|:--------------|:----------------------------------------------------|
-| bamungrassfields-salt-1 | bamungrassfields | salt | ̌ŋkíɛ́ | <s> <<̌>> </s> ŋ k í/i ɛ́/ɛ |
-| c323mpama-fingernail-1 | c323mpama | fingernail | nsɛ́t1e | n s ɛ́/ɛ t <s> <<1>> </s> e |
-| c71tetela-two-1 | c71tetela | two | ̍-̀he̍:nde̍ | <s> <<̍>> </s> + <s> <<̀>> </s> h e̍:/eː n d e̍/e |
-| e46sonjo-breast-1 | e46sonjo | breast | ebɛːlɛ | e b ɛ <s> <<ː>> </s> l ɛ |
-| e621csiha-walk-1 | e621csiha | walk | yeeda mahenr# | j e e d a + m a h e n r <s> <<#>> </s> |
-| fefegrassfields-salt-1 | fefegrassfields | salt | ŋɡwāˀ | ŋ g w ā/a <s> <<ˀ>> </s> |
-| g52ndamba-sky-1 | g52ndamba | sky | kwa mulung# | k w a + m u l u n g <s> <<#>> </s> |
-| h11beembe-know-1 | h11beembe | know | kùgiá:́bà | k ù/u g i á:/aː <s> <<́>> </s> b à/a |
-| h11beembe-person-1 | h11beembe | person | mú:́tù | m ú:/uː <s> <<́>> </s> t ù/u |
-| h11beembe-salt-1 | h11beembe | salt | m-ù:̀ŋguá | m + ù:/uː <s> <<̀>> </s> ŋ g u á/a |
-| h16ckiyombedrc1982-smoke-1 | h16ckiyombedrc1982 | smoke | -1isi | + <s> <<1>> </s> i s i |
-| h16flaadi-arm-1 | h16flaadi | arm | kò́kò | k ò/o <s> <<́>> </s> k ò/o |
-| h16flaadi-rain-1 | h16flaadi | rain | mBVúlà | m <s> <<B>> </s> <s> <<V>> </s> ú/u l à/a |
-| k332rumanyo-bed-1 | k332rumanyo | bed | ǀɛ́ǀ̰à | <s> <<ǀ>> </s> ɛ́/ɛ <s> <<ǀ>> </s> <s> <<̰>> </s> à/a |
-| komgrassfields-egg-1 | komgrassfields | egg | íɣʷűˈḿ | í/i ɣ <s> <<ʷ>> </s> ű/u ʔ ḿ/m |
-| komgrassfields-fall-1 | komgrassfields | fall | fe᷄ | f e <s> <<᷄>> </s> |
-| komgrassfields-firewood-1 | komgrassfields | firewood | fə̀kāˋˀ | f ə̀/ə k ā/a <s> <<ˋ>> </s> <s> <<ˀ>> </s> |
-| m25safwa-dog-1 | m25safwa | dog | imbw# | i m b w <s> <<#>> </s> |
-| n31chewa-man-1 | n31chewa | man | am´na | a m <s> <<´>> </s> n a |
-| njengrassfields-heart-1 | njengrassfields | heart | èntʉ̰̄ | è/e n t ʉ̃ <s> <<̄>> </s> |
-| okugrassfields-bite-1 | okugrassfields | bite | lo᷆m | l o <s> <<᷆>> </s> m |
-| okugrassfields-count-1 | okugrassfields | count | ta᷆ŋ | t a <s> <<᷆>> </s> ŋ |
-| okugrassfields-firewood-1 | okugrassfields | firewood | m̀kāˋk | m̀/m k ā/a <s> <<ˋ>> </s> k |
-| p11ndengeleko-hunger-1 | p11ndengeleko | hunger | nnzaLa | n n z a <s> <<L>> </s> a |
-| p31emakhua-sun-1 | p31emakhua | sun | ´n-cúwa | <s> <<´>> </s> n + c ú/u w a |
-| p31gikorovere-kill-1 | p31gikorovere | kill | w-iv́va | w + i v <s> <<́>> </s> v a |
-| r11umbundu-tail-1 | r11umbundu | tail | úkɩ̠̍l̠á̠ | ú/u k ɩ̠̍/ɪ l̠/l á/a <s> <<̠>> </s> |
-| s311shekgalagari-sand-1 | s311shekgalagari | sand | intɬ’aɓatʰi | i n tɬ <s> <<’>> </s> a ɓ a tʰ i |
-| s31tswana-moon-1 | s31tswana | moon | qʰwèdí | q <s> <<ʰ>> </s> w è/e d í/i |
-| s53tsonga-face-1 | s53tsonga | face | ŋgʱóɦé | ŋ g <s> <<ʱ>> </s> ó/o ɦ é/e |
-| tivtivoid-animal-1 | tivtivoid | animal | i̱nya̱m | i̱/i n j a <s> <<̱>> </s> m |
-| tivtivoid-bed-1 | tivtivoid | bed | ga̱mbə | g a <s> <<̱>> </s> m b ə |
-| tivtivoid-bird-1 | tivtivoid | bird | i̱nyo̭n | i̱/i n j o <s> <<̭>> </s> n |
-| tivtivoid-bite-1 | tivtivoid | bite | nyu̥ma̱ | n j u <s> <<̥>> </s> m a <s> <<̱>> </s> |
-| tivtivoid-blood-1 | tivtivoid | blood | awambə̥ | a w a m b ə <s> <<̥>> </s> |
-| tivtivoid-burn-1 | tivtivoid | burn | a̱ŋgə̱r | a <s> <<̱>> </s> ŋ g ə̱/ə r |
-| tivtivoid-die-1 | tivtivoid | die | kpwə̥ | k p w ə <s> <<̥>> </s> |
-| tivtivoid-ear-1 | tivtivoid | ear | to-g̥h | t o + g <s> <<̥>> </s> h |
-| tivtivoid-egg-1 | tivtivoid | egg | iji̥ | i j i <s> <<̥>> </s> |
-| tivtivoid-fall-1 | tivtivoid | fall | gba̝kon | g b a <s> <<̝>> </s> k o n |
-| tivtivoid-fingernail-1 | tivtivoid | fingernail | i̱kuu̱l | i̱/i k u u <s> <<̱>> </s> l |
-| tivtivoid-fire-1 | tivtivoid | fire | usu̥ | u s u <s> <<̥>> </s> |
-| tivtivoid-five-1 | tivtivoid | five | u̱tḁa̱n | u <s> <<̱>> </s> t ḁ/a a <s> <<̱>> </s> n |
-| tivtivoid-fly-1 | tivtivoid | fly | pu̱ru̱gh | p u <s> <<̱>> </s> r u <s> <<̱>> </s> g h |
-| tivtivoid-goat-1 | tivtivoid | goat | iv̱o | i v <s> <<̱>> </s> o |
-| tivtivoid-hear-1 | tivtivoid | hear | u̥ŋgwa̱ | u <s> <<̥>> </s> ŋ g w a <s> <<̱>> </s> |
-| tivtivoid-hunger-1 | tivtivoid | hunger | i̱jə̭n | i̱/i j ə <s> <<̭>> </s> n |
-| tivtivoid-intestine-1 | tivtivoid | intestine | m-ya̭m | m + j a <s> <<̭>> </s> m |
-| tivtivoid-iron-1 | tivtivoid | iron | iyɔ-g̥h | i j ɔ + g <s> <<̥>> </s> h |
-| tivtivoid-kill-1 | tivtivoid | kill | wu̥a̱ | w u <s> <<̥>> </s> a <s> <<̱>> </s> |
-| tivtivoid-knife-1 | tivtivoid | knife | ihɔ̥ | i h ɔ <s> <<̥>> </s> |
-| tivtivoid-leaf-1 | tivtivoid | leaf | ahu̥ | a h u <s> <<̥>> </s> |
-| tivtivoid-louse-1 | tivtivoid | louse | i̱u̱su̱ | i̱/i u <s> <<̱>> </s> s u <s> <<̱>> </s> |
-| tivtivoid-man-1 | tivtivoid | man | iyor̭ | i j o r <s> <<̭>> </s> |
-| tivtivoid-neck-1 | tivtivoid | neck | mo-n̥ | m o + n <s> <<̥>> </s> |
-| tivtivoid-one-1 | tivtivoid | one | mɔm̭ | m ɔ m <s> <<̭>> </s> |
-| tivtivoid-person-1 | tivtivoid | person | oṟ | o <s> <<ṟ>> </s> |
-| tivtivoid-road-1 | tivtivoid | road | i̱gbu̱du̱ | i̱/i g b u <s> <<̱>> </s> d u <s> <<̱>> </s> |
-| tivtivoid-root-1 | tivtivoid | root | misə̥ | m i s ə <s> <<̥>> </s> |
-| tivtivoid-sand-1 | tivtivoid | sand | wara̱wa | w a r a <s> <<̱>> </s> w a |
-| tivtivoid-see-1 | tivtivoid | see | nə̥ŋgə̱ | n ə <s> <<̥>> </s> ŋ g ə̱/ə |
-| tivtivoid-send-1 | tivtivoid | send | tin̥di | t i n <s> <<̥>> </s> d i |
-| tivtivoid-sing-1 | tivtivoid | sing | tḁ ca-m̥ | t ḁ/a + c a + m <s> <<̥>> </s> |
-| tivtivoid-steal-1 | tivtivoid | steal | ihyura̭n | i h j u r a <s> <<̭>> </s> n |
-| tivtivoid-stone-1 | tivtivoid | stone | iwə-n̥ | i w ə + n <s> <<̥>> </s> |
-| tivtivoid-ten-1 | tivtivoid | ten | pu̱ə̱ | p u <s> <<̱>> </s> ə̱/ə |
-| tivtivoid-three-1 | tivtivoid | three | u̱tar | u <s> <<̱>> </s> t a r |
-| tivtivoid-tongue-1 | tivtivoid | tongue | nombo̭r | n o m b o <s> <<̭>> </s> r |
-| tivtivoid-village-1 | tivtivoid | village | yaṟ | j a <s> <<ṟ>> </s> |
-| tivtivoid-vomit-1 | tivtivoid | vomit | sua̱ | s u a <s> <<̱>> </s> |
-| tivtivoid-wind-1 | tivtivoid | wind | ahumbə̥ | a h u m b ə <s> <<̥>> </s> |
-| tivtivoid-woman-1 | tivtivoid | woman | kwḁsə̥ | k w ḁ/a s ə <s> <<̥>> </s> |
+||
 
-(72 rows)
+(0 rows)
 
 
