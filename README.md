@@ -49,12 +49,12 @@ From Harald Hammarström:
 
 - **Varieties:** 424
 - **Concepts:** 100
-- **Lexemes:** 37,815
+- **Lexemes:** 37,846
 - **Sources:** 217
 - **Synonymy:** 1.00
 - **Cognacy:** 37,713 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 196,730
-- **Segments:** 561 (0 BIPA errors, 0 CTLS sound class errors, 556 CLTS modified)
-- **Inventory size (avg):** 34.85
+- **Tokens:** 196,920
+- **Segments:** 560 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
+- **Inventory size (avg):** 34.86
