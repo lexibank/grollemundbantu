@@ -27,9 +27,8 @@
             "type": "Distributor"
         }
     ],
-    "resource_type": {
-        "type": "dataset", "title": "Dataset"
-    },
+    "upload_type": "dataset",
+    "related_identifiers": [{"identifier": "https://doi.org/10.1073/pnas.1503793112", "relation": "isDerivedFrom"}],
     "communities": [
         {
             "identifier": "lexibank"
