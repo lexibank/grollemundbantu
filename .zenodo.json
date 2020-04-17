@@ -19,16 +19,15 @@
     },
     "contributors": [
         {
-            "name": "Mark Pagel",
-            "type": "Distributor"
+            "type": "Distributor",
+            "name": "Mark Pagel"
         },
         {
-            "name": "Rebecca Grollemund",
-            "type": "Distributor"
+            "type": "Distributor",
+            "name": "Rebecca Grollemund"
         }
     ],
     "upload_type": "dataset",
-    "related_identifiers": [{"identifier": "https://doi.org/10.1073/pnas.1503793112", "relation": "isDerivedFrom"}],
     "communities": [
         {
             "identifier": "lexibank"

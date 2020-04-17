@@ -59,7 +59,8 @@ From Harald Hammarström:
 - **Segments:** 560 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
 - **Inventory size (avg):** 34.86
 
- 
+# Contributors
+
 Name | GitHub user | Role
  --- | --- | --- 
 Robert Forkel | @xrotwang | maintainer
