@@ -28,7 +28,7 @@
         }
     ],
     "resource_type": {
-        "type": "dataset"
+        "type": "dataset", "title": "Dataset"
     },
     "communities": [
         {
