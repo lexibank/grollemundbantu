@@ -1,4 +1,4 @@
-# Grollemund Bantu Database
+# CLDF dataset derived from Grollemund et al.'s "Bantu expansion shows habitat alters the route and pace of human dispersals" from 2015
 
 Cite the source dataset as
 
@@ -58,3 +58,12 @@ From Harald Hammarström:
 - **Tokens:** 196,920
 - **Segments:** 560 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
 - **Inventory size (avg):** 34.86
+
+ 
+Name | GitHub user | Role
+ --- | --- | --- 
+Robert Forkel | @xrotwang | maintainer
+Tiago Tresoldi | @tresoldi | maintainer
+
+
+

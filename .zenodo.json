@@ -1,0 +1,26 @@
+{
+    "keywords": [
+        "linguistics",
+        "cldf:Wordlist"
+    ],
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    },
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        }
+    ],
+    "access_right": "open",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Grollemund, Rebecca, Branford, Simon, Bostoen, Koen, Meade, Andrew, Venditti, Chris, &amp; Pagel, Mark (2015) Bantu expansion shows habitat alters the route and pace of human dispersals. Proc Natl Acad Sci USA. doi:10.1073/pnas.1503793112.</p>\n</blockquote>",
+    "title": "CLDF dataset derived from Grollemund et al.'s \"Bantu expansion shows habitat alters the route and pace of human dispersals\" from 2015",
+    "contributors": []
+}
