@@ -10,13 +10,6 @@
     ],
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Grollemund, Rebecca, Branford, Simon, Bostoen, Koen, Meade, Andrew, Venditti, Chris, &amp; Pagel, Mark (2015) Bantu expansion shows habitat alters the route and pace of human dispersals. Proc Natl Acad Sci USA. doi:10.1073/pnas.1503793112.</p>\n</blockquote>",
     "access_right": "open",
-    "related_identifiers": [
-        {
-            "relation": "isDerivedFrom",
-            "scheme": "url",
-            "identifier": "https://doi.org/10.1073/pnas.1503793112"
-        }
-    ],
     "keywords": [
         "linguistics",
         "cldf:Wordlist"
