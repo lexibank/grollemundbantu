@@ -6,7 +6,7 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Grollemund-2015-100"
     ],
-    "dc:identifier": "http://www.evolution.reading.ac.uk/DataSets.html",
+    "dc:identifier": "https://doi.org/10.1073/pnas.1503793112",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
@@ -18,7 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/grollemundbantu",
-            "dc:created": "298e81e"
+            "dc:created": "2b82aac"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,12 +37,6 @@
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.3.0-14-g5d00e64"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [

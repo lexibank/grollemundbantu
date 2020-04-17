@@ -6,7 +6,7 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
-Available online at http://www.evolution.reading.ac.uk/DataSets.html
+Available online at https://doi.org/10.1073/pnas.1503793112
 
 
 Conceptlists in Concepticon:
@@ -64,6 +64,8 @@ Name | GitHub user | Role
  --- | --- | --- 
 Robert Forkel | @xrotwang | maintainer
 Tiago Tresoldi | @tresoldi | maintainer
+Mark Pagel | | Distributor
+Rebecca Grollemund | | Distributor
 
 
 
