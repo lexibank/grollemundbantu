@@ -9,7 +9,7 @@ A15B_Mienge_NW_Manenguba,A15B_Mienge_NW_Manenguba,bsi,Bassossi,bass1260,124592
 A15C_Akossi,A15C_Akossi,bss,Akoose,akoo1248,124592
 A15C_Elung_Central_Manenguba,A15C_Elung_Central_Manenguba,bss,Akoose,akoo1248,124592
 A15C_Mkaa,A15C_Mkaa,bqz,Bakaka,baka1273,124592
-A15_Manenguba,A15_Manenguba,bsi,Bassossi,bass1260,124592
+A15_Manenguba,A15_Manenguba,bsi,Bassossi,baka1273,124592
 A22_Bakweri,A22_Bakweri,bri,Mokpwe,mokp1239,CBOLDA22Bakweri
 A24_Duala,A24_Duala,dua,Duala,dual1243,153918
 A27_Malimba,A27_Malimba,mzd,Malimba,mali1280,84020
@@ -28,9 +28,9 @@ A51_Bafia_maja,A51_Bafia_maja,ksf,Bafia,bafi1243,29588
 A53_Bafia_rikpa,A53_Bafia_rikpa,ksf,Bafia,bafi1243,142993
 A54_Tibea,A54_Tibea,ngy,Tibea,tibe1274,42526
 A601_Tuki,A601_Tuki,bag,Tuki,tuki1240,74679
-A61_Ngoro-Asom,A61_Ngoro-Asom,bag,Tuki,tuki1240,42526
-A61_Ngoro-Bisoo,A61_Ngoro-Bisoo,bag,Tuki,tuki1240,42526
-A61_Ngoro-lunda,A61_Ngoro-lunda,bag,Tuki,tuki1240,42526
+A61_Ngoro-Asom,A61_Ngoro-Asom,bag,Tuki,bebe1248,42526
+A61_Ngoro-Bisoo,A61_Ngoro-Bisoo,bag,Tuki,eton1253,42526
+A61_Ngoro-lunda,A61_Ngoro-lunda,bag,Tuki,eton1253,42526
 A621_Nubaca,A621_Nubaca,baf,Nubaca,nuba1241,42526
 A622_Nugunu,A622_Nugunu,yas,Nugunu (Cameroon),nugu1242,RobinsonNugunu
 A62A_Nuasue,A62A_Nuasue,yav,Yangben,yang1293,33021
@@ -53,7 +53,7 @@ A84_Njem,A84_Njem,njy,Njyem,njye1238,Beavon1996
 A85b_Bekwil_Makokou,A85b_Bekwil_Makokou,bkw,Bekwil,bekw1242,ALGABA85bBekwilMakokou
 A85b_Bekwil_Mv,A85b_Bekwil_Mv,bkw,Bekwil,bekw1242,ALGABA85bBekwilMv
 A86c_Mpiemo,A86c_Mpiemo,mcx,Mpiemo,mpie1238,CBOLDA86cMpiemo
-A87_Bomwali,A87_Bomwali,pmm,Pomo,pomo1271,29588
+A87_Bomwali,A87_Bomwali,pmm,Pomo,bomw1238,29588
 A91_Kwakum,A91_Kwakum,kwu,Kwakum,kwak1266,Belliard2007
 A93_Kako,A93_Kako,kkj,Kako,kako1242,42305
 Aghem_Grassfields,Aghem_Grassfields,agq,Aghem,aghe1239,ALGABAghemGrassfields
@@ -97,10 +97,10 @@ B51_Duma,B51_Duma,dma,Duma,duma1253,ALGABB51Duma
 B51_Duma_La,B51_Duma_La,dma,Duma,duma1253,ALGABB51DumaLa
 B52_Nzebi,B52_Nzebi,nzb,Njebi,njeb1242,ALGABB52Nzebi
 B53_Tsaangi_Poungi,B53_Tsaangi_Poungi,tsa,Tsaangi,tsaa1242,ALGABB53TsaangiPoungi
-B601_Lempini,B601_Lempini,mbm,Ombamba,omba1241,ALGABB601Lempini
+B601_Lempini,B601_Lempini,mbm,Ombamba,mber1257,ALGABB601Lempini
 B602_Kaningi_Nord,B602_Kaningi_Nord,kzo,Kaningi,kani1279,ALGABB602KaningiNord
 B602_Kaningi_Sud,B602_Kaningi_Sud,kzo,Kaningi,kani1279,ALGABB602KaningiSud
-B62_Mbaama,B62_Mbaama,mbm,Ombamba,omba1241,ALGABB62Mbaama
+B62_Mbaama,B62_Mbaama,mbm,Ombamba,mber1257,ALGABB62Mbaama
 B63_Ndumu,B63_Ndumu,nmd,Ndumu,ndum1239,ALGABB63Ndumu
 B701_Atsitsege,B701_Atsitsege,tck,Tchitchege,tchi1245,ALGABB701Atsitsege
 B71aIb_Teke_Ibali_Congo,B71aIb_Teke_Ibali_Congo,tek,Ibali Teke,ibal1241,ALGABB71aIbTekeIbaliCongo
@@ -108,12 +108,12 @@ B71aLe_Teke_Leconi,B71aLe_Teke_Leconi,teg,Teke-Tege,teke1275,ALGABB71aLeTekeLeco
 B71a_Teke_Dj,B71a_Teke_Dj,teg,Teke-Tege,teke1275,ALGABB71aTekeDj
 B71a_Teke_Os,B71a_Teke_Os,teg,Teke-Tege,teke1275,ALGABB71aTekeOs
 B77b_Fumu,B77b_Fumu,ifm,Teke-Fuumu,teke1274,29588
-B78_Wuumu,B78_Wuumu,ifm,Teke-Fuumu,teke1274,29588
+B78_Wuumu,B78_Wuumu,ifm,Teke-Fuumu,wuum1239,29588
 B81_Tiene,B81_Tiene,tii,Tiene,tien1242,133621
-B82_Buma,B82_Buma,boh,Boma,boma1246,BurssensB82Buma
+B82_Buma,B82_Buma,boh,Boma,boma1251,BurssensB82Buma
 B84_Mbunda,B84_Mbunda,zmp,Mpuono,mpuo1241,BurssensB84Mbunda
 B85d_Nsongo,B85d_Nsongo,soo,Songo,song1299,29588
-B85e_Mput,B85e_Mput,yns,Yansi,yans1239,BurssensB85eMput
+B85e_Mput,B85e_Mput,yns,Yansi,ding1239,BurssensB85eMput
 B85_Yanzi,B85_Yanzi,yns,Yansi,yans1239,BurssensB85Yanzi
 B861_Ngul,B861_Ngul,nlo,Ngul,ngul1247,BurssensB861Ngul
 B862_Lwel,B862_Lwel,,Lwel,lwel1234,29588
@@ -126,11 +126,11 @@ Bamun_Grassfields,Bamun_Grassfields,bax,Bamun,bamu1253,ALGABBamun
 Bile_Jarawan,Bile_Jarawan,bil,Bile,bile1244,Blench2006
 Bwazza_Jarawan,Bwazza_Jarawan,mbu,Mbula-Bwazza,mbul1260,Blench2006
 C101_Babole_Dz,C101_Babole_Dz,bvx,Dibole,dibo1245,Leitch1989
-C101_Babole_Ep,C101_Babole_Ep,bvx,Dibole,dibo1245,Leitch1989
+C101_Babole_Ep,C101_Babole_Ep,bvx,Dibole,bomi1238,Leitch1989
 C101_Babole_Ma,C101_Babole_Ma,bvx,Dibole,dibo1245,Leitch1989
 C104_Aka,C104_Aka,axk,Yaka (Central African Republic),yaka1272,62146
-C105_Mbenga,C105_Mbenga,axk,Yaka (Central African Republic),yaka1272,58506
-C141_Bonyala,C141_Bonyala,bui,Bongili,bong1284,ALGABC141Bonyala
+C105_Mbenga,C105_Mbenga,axk,Yaka (Central African Republic),maba1270,58506
+C141_Bonyala,C141_Bonyala,bui,Bongili,mbos1242,ALGABC141Bonyala
 C142_Mondongo,C142_Mondongo,bmg,Bamwe,bamw1238,ALGABC142Mondongo
 C15_Bongili,C15_Bongili,bui,Bongili,bong1284,29588
 C21_Ngare,C21_Ngare,mdu,Mboko,mbok1243,ALGABC21Ngare
@@ -139,7 +139,7 @@ C24_Koyo,C24_Koyo,koh,Koyo,koyo1242,CBOLDC24Koyo
 C25A_Bunji,C25A_Bunji,mdw,Mbosi,mbos1242,ALGABC25ABunji
 C25B_Olee,C25B_Olee,mdw,Mbosi,mbos1242,ALGABC25BOlee
 C25C_Ondinga,C25C_Ondinga,mdw,Mbosi,mbos1242,448432
-C25E_Eboyi,C25E_Eboyi,mdw,Mbosi,mbos1242,ALGABC25EEboyi
+C25E_Eboyi,C25E_Eboyi,mdw,Mbosi,koyo1242,ALGABC25EEboyi
 C25_Mboshi,C25_Mboshi,mdw,Mbosi,mbos1242,ALGABC25Mboshi
 C302_Bolondo,C302_Bolondo,bzm,Bolondo,bolo1263,ALGABC302Bolondo
 C322_Zamba,C322_Zamba,,Zamba,zamb1245,29588
@@ -181,12 +181,12 @@ D24_Songola,D24_Songola,sod,Songoora,song1300,29588
 D25_Lega,D25_Lega,lea,Lega-Shabunda,lega1249,Botne1994
 D28_Holoholo,D28_Holoholo,hoo,Holoholo,holo1240,72803
 *D304_Homa_1919,*D304_Homa_1919,hom,Homa,homa1239,161489
-*D305_Nyanga-li,*D305_Nyanga-li,nyc,Nyanga-li,nyan1303,161489
+*D305_Nyanga-li,*D305_Nyanga-li,nyc,Nyanga-li,nyan1304,161489
 *D308_Bodo2,*D308_Bodo2,buu,Budu,budu1250,161489
 *D308_Ebodo,*D308_Ebodo,buu,Budu,budu1250,ALGABD308Ebodo
 D311_Bila,D311_Bila,bip,Bila,bila1255,ALGABD311Bila
 D313_Mbuttu_1919,D313_Mbuttu_1919,buu,Budu,budu1250,161489
-D32_Bira,D32_Bira,brf,Bera,bera1259,ALGABD32Bira
+D32_Bira,D32_Bira,brf,Bera,bila1255,ALGABD32Bira
 D32_Bira_Bunia,D32_Bira_Bunia,brf,Bera,bera1259,161489
 D331_Bvanuma,D331_Bvanuma,vau,Vanuma,vanu1242,ALGABD331Bvanuma
 D333_Ndaaka,D333_Ndaaka,ndk,Ndaka,ndak1241,ALGABD333Ndaaka
@@ -251,7 +251,7 @@ G22_Asu,G22_Asu,asa,Asu (Tanzania),asut1235,ALGABG22Asu
 G22B_South_Pare,G22B_South_Pare,asa,Asu (Tanzania),asut1235,ALGABG22BSouthPare
 G23_Sambaa,G23_Sambaa,ksb,Shambala,sham1280,30800
 G24_Bondei,G24_Bondei,bou,Bondei,bond1247,30800
-G31_Zigua,G31_Zigua,ziw,Zigula,zigu1242,30800
+G31_Zigua,G31_Zigua,ziw,Zigula,zigu1244,30800
 G32_Doe,G32_Doe,doe,Doe,doee1238,30800
 G32_Kwere,G32_Kwere,cwe,Kwere,kwer1261,30800
 G33_Zaramo,G33_Zaramo,zaj,Zaramo,zara1247,30800
@@ -261,7 +261,7 @@ G36_Kami,G36_Kami,kcu,Kami (Tanzania),kami1256,30800
 G37_Kutu,G37_Kutu,kdc,Kutu,kutu1263,30800
 G39_Saghala,G39_Saghala,sbm,Sagala,saga1256,30800
 G401_Mwani,G401_Mwani,wmw,Mwani,mwan1247,ALGABG401Mwani
-G412_Mwiini,G412_Mwiini,swh,Swahili,swah1253,ALGABG412Mwiini
+G412_Mwiini,G412_Mwiini,swh,Swahili,chim1312,ALGABG412Mwiini
 G41_Bajuni,G41_Bajuni,swh,Swahili,swah1253,ALGABG41Bajuni
 G42a_Amu,G42a_Amu,swh,Swahili,swah1253,ALGABG42aAmu
 G42d_Unguja,G42d_Unguja,swh,Swahili,swah1253,ALGABG42dUnguja
@@ -283,22 +283,22 @@ H11_Beembe,H11_Beembe,beq,Beembe,beem1239,CBOLDH11Beembe
 H12_Civili_Congo,H12_Civili_Congo,vif,Vili,vili1238,ALGABH12CiviliCongo
 H131_Kisundi_Congo_Kimongo_1988,H131_Kisundi_Congo_Kimongo_1988,sdj,Suundi,suun1239,ALGABH131KisundiCongoKimongo1988
 H13_Kikunyi_1989,H13_Kikunyi_1989,njx,Kunyi,kuny1238,ALGABH13Kikunyi1989
-H16a_Kisikongo_2013,H16a_Kisikongo_2013,kwy,San Salvador Kongo,sans1272,ALGABH16aKisikongo2013
+H16a_Kisikongo_2013,H16a_Kisikongo_2013,kwy,San Salvador Kongo,koon1244,ALGABH16aKisikongo2013
 H16a_Kisolongo_DRC_2012,H16a_Kisolongo_DRC_2012,kng,Koongo,koon1244,ALGABH16aKisolongoDRC2012
 H16b_Kindibu_2013,H16b_Kindibu_2013,kng,Koongo,koon1244,ALGABH16bKindibu2013
 H16_Cilinji,H16_Cilinji,yom,Yombe,yomb1244,29588
 H16_Cimbala,H16_Cimbala,yom,Yombe,yomb1244,29588
 H16_Cizobe,H16_Cizobe,yom,Yombe,yomb1244,29588
 H16c_Kiyombe_DRC_1982,H16c_Kiyombe_DRC_1982,yom,Yombe,yomb1244,ALGABH16cKiyombeDRC1982
-H16c_Yombe,H16c_Yombe,yom,Yombe,yomb1244,CBOLDH16cYombe
-H16d_Ciwoyo_DRC_2012,H16d_Ciwoyo_DRC_2012,yom,Yombe,yomb1244,ALGABH16dCiwoyoDRC2012
+H16c_Yombe,H16c_Yombe,yom,Yombe,vili1238,CBOLDH16cYombe
+H16d_Ciwoyo_DRC_2012,H16d_Ciwoyo_DRC_2012,yom,Yombe,sans1272,ALGABH16dCiwoyoDRC2012
 H16f_Laadi,H16f_Laadi,ldi,Laari,laar1238,160312
-H16g_Kimpangu_2012,H16g_Kimpangu_2012,kng,Koongo,koon1244,ALGABH16gKimpangu2012
-H16g_Ntandu,H16g_Ntandu,kng,Koongo,koon1244,29588
-H16h_Kinkanu_2012,H16h_Kinkanu_2012,kng,Koongo,koon1244,ALGABH16hKinkanu2012
+H16g_Kimpangu_2012,H16g_Kimpangu_2012,kng,Koongo,east2782,ALGABH16gKimpangu2012
+H16g_Ntandu,H16g_Ntandu,kng,Koongo,east2782,29588
+H16h_Kinkanu_2012,H16h_Kinkanu_2012,kng,Koongo,east2782,ALGABH16hKinkanu2012
 H16_Kikongo,H16_Kikongo,kng,Koongo,koon1244,Butaye1909
-H16_Kimbata_Ngidinga,H16_Kimbata_Ngidinga,kng,Koongo,koon1244,29588
-H16_Kimbeko,H16_Kimbeko,kng,Koongo,koon1244,29588
+H16_Kimbata_Ngidinga,H16_Kimbata_Ngidinga,kng,Koongo,east2782,29588
+H16_Kimbeko,H16_Kimbeko,kng,Koongo,east2782,29588
 H21a_Kimbundu,H21a_Kimbundu,kmb,Kimbundu,kimb1241,ALGABH21aKimbundu
 H31_Yaka,H31_Yaka,yaf,Yaka (Democratic Republic of Congo),yaka1269,Ruttenberg1969
 H321_Soonde,H321_Soonde,shc,Sonde,sond1250,29588
@@ -388,7 +388,7 @@ Mbula_Jarawan,Mbula_Jarawan,mbu,Mbula-Bwazza,mbul1260,Blench2006
 Moghamo_Grassfields,Moghamo_Grassfields,mgo,Meta',meta1238,ALGABMoghamoGrassfields
 Mungaka_Grassfields,Mungaka_Grassfields,mhk,Mungaka,mung1266,ALGABMungakaGrassfields
 N11_Manda,N11_Manda,mgs,Manda (Tanzania),mand1423,30800
-N12_Ngoni,N12_Ngoni,ngo,Ngoni,ngon1269,30800
+N12_Ngoni,N12_Ngoni,ngo,Ngoni,tanz1241,30800
 N13_Matengo,N13_Matengo,mgv,Matengo,mate1258,30800
 N14_Mpoto,N14_Mpoto,mpa,Mpoto,mpot1240,30800
 N21_Tumbuka_Malawi,N21_Tumbuka_Malawi,tum,Tumbuka,tumb1250,29588
@@ -418,7 +418,7 @@ S311_Shekgalagari,S311_Shekgalagari,xkv,Kgalagadi,kgal1244,ALGABS311Shekgalagari
 S31_Tswana,S31_Tswana,tsn,Tswana,tswa1253,ALGABS31Tswana
 S41_Xhosa,S41_Xhosa,xho,Xhosa,xhos1239,WebstersXhosa
 S42_Zulu,S42_Zulu,zul,Zulu,zulu1248,isiZulu
-S44_Ndebele,S44_Ndebele,nde,North Ndebele,nort2795,29588
+S44_Ndebele,S44_Ndebele,nde,North Ndebele,zulu1248,29588
 S51_Tshwa,S51_Tshwa,tsc,Tswa,tswa1255,29588
 S53_Tsonga,S53_Tsonga,tso,Tsonga,tson1249,66179
 Tiv_Tivoid,Tiv_Tivoid,tiv,Tiv,tivv1240,7621
