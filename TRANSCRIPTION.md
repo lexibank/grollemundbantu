@@ -573,7 +573,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -582,8 +582,108 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-||
+|:----------------------|:--------------|:----------|:---------------------|:------------------------------------------|
+| a141lefo-big-1 | a141lefo | big | -tòn | + t ò/o n |
+| a141lefo-drink-1 | a141lefo | drink | -mwá | + m w á/a |
+| a141lefo-eat-1 | a141lefo | eat | -dyá | + d j á/a |
+| a141lefo-five-1 | a141lefo | five | -táàn | + t á/a à/a n |
+| a141lefo-fly-1 | a141lefo | fly | -fùmú | + f ù/u m ú/u |
+| a141lefo-four-1 | a141lefo | four | -nììn | + n ì/i ì/i n |
+| a141lefo-one-1 | a141lefo | one | -fɔ́ʔ | + f ɔ́/ɔ ʔ |
+| a141lefo-see-1 | a141lefo | see | -mín | + m í/i n |
+| a141lefo-three-1 | a141lefo | three | -láán | + l á/a á/a n |
+| a141lefo-two-1 | a141lefo | two | -bɛ̂ | + b ɛ̂/ɛ |
+| a141lefo-vomit-1 | a141lefo | vomit | -yūé | + j ū/u é/e |
+| a141lefo-walk-1 | a141lefo | walk | -kə̀ | + k ə̀/ə |
+| a151nkongho-big-1 | a151nkongho | big | -mɔ̀k | + m ɔ̀/ɔ k |
+| a151nkongho-drink-1 | a151nkongho | drink | -núwə́ ǹ-núwánɛ́ | + n ú/u w ə́/ə + ǹ/n + n ú/u w á/a n ɛ́/ɛ |
+| a151nkongho-five-1 | a151nkongho | five | -táà | + t á/a à/a |
+| a151nkongho-four-1 | a151nkongho | four | -ɲìì | + ɲ ì/i ì/i |
+| a151nkongho-three-1 | a151nkongho | three | -láɣá | + l á/a ɣ á/a |
+| a151nkongho-two-1 | a151nkongho | two | -byà | + b j à/a |
+| a151nkongho-vomit-1 | a151nkongho | vomit | -zúgú | + z ú/u g ú/u |
+| a15ambuu-bite-1 | a15ambuu | bite | -kpáàlɛ̀ | + k p á/a à/a l ɛ̀/ɛ |
+| a15ambuu-burn-1 | a15ambuu | burn | -tə̀màŋ | + t ə̀/ə m à/a ŋ |
+| a15ambuu-come-1 | a15ambuu | come | -sɛ́ɛ́ | + s ɛ́/ɛ ɛ́/ɛ |
+| a15ambuu-count-1 | a15ambuu | count | -lə́ŋə̀ | + l ə́/ə ŋ ə̀/ə |
+| a15ambuu-die-1 | a15ambuu | die | -wə́ə̀ | + w ə́/ə ə̀/ə |
+| a15ambuu-drink-1 | a15ambuu | drink | -mwáà | + m w á/a à/a |
+| a15ambuu-eat-1 | a15ambuu | eat | -jɛ́ɛ̀ | + j ɛ́/ɛ ɛ̀/ɛ |
+| a15ambuu-fall-1 | a15ambuu | fall | -kwə̀ə̀ | + k w ə̀/ə ə̀/ə |
+| a15ambuu-five-1 | a15ambuu | five | -táàn | + t á/a à/a n |
+| a15ambuu-fly-1 | a15ambuu | fly | -lààlè | + l à/a à/a l è/e |
+| a15ambuu-four-1 | a15ambuu | four | -nìì | + n ì/i ì/i |
+| a15ambuu-give-1 | a15ambuu | give | -bɔ̀ɔ̀ | + b ɔ̀/ɔ ɔ̀/ɔ |
+| a15ambuu-hear-1 | a15ambuu | hear | -gúúlə̀ | + g ú/u ú/u l ə̀/ə |
+| a15ambuu-kill-1 | a15ambuu | kill | -gúə̀ | + g ú/u ə̀/ə |
+| a15ambuu-know-1 | a15ambuu | know | -bìɛ̀ | + b ì/i ɛ̀/ɛ |
+| a15ambuu-one-1 | a15ambuu | one | -pɔ́ʔ | + p ɔ́/ɔ ʔ |
+| d20bvamba1919-sky-1 | d20bvamba1919 | sky | I -guru | i + + g u r u |
+| d20bvamba1919-stone-1 | d20bvamba1919 | stone | I -vale | i + + v a l e |
+| d304homa1919-come-1 | d304homa1919 | come | -duna | + d u n a |
+| d304homa1919-die-1 | d304homa1919 | die | -kus | + k u s |
+| d304homa1919-know-1 | d304homa1919 | know | -bis' | + b i s ʔ |
+| d304homa1919-one-1 | d304homa1919 | one | -mɯtɯ | + m ɯ t ɯ |
+| d305nyangali-big-1 | d305nyangali | big | -kíri | + k í/i r i |
+| d305nyangali-bite-1 | d305nyangali | bite | -bʊ́rɛ | + b ʊ́/ʊ r ɛ |
+| d305nyangali-come-1 | d305nyangali | come | -kúrúka | + k ú/u r ú/u k a |
+| d305nyangali-count-1 | d305nyangali | count | -ànsa | + à/a n s a |
+| d305nyangali-die-1 | d305nyangali | die | -kúsa | + k ú/u s a |
+| d305nyangali-drink-1 | d305nyangali | drink | -ɔ̀mɔ | + ɔ̀/ɔ m ɔ |
+| d305nyangali-eat-1 | d305nyangali | eat | -rá | + r á/a |
+| d305nyangali-fall-1 | d305nyangali | fall | -hʊ́ka | + h ʊ́/ʊ k a |
+| d305nyangali-fly-1 | d305nyangali | fly | -ɔ̀ka | + ɔ̀/ɔ k a |
+| d305nyangali-four-1 | d305nyangali | four | -ɲɛ̀ | + ɲ ɛ̀/ɛ |
+| d305nyangali-give-1 | d305nyangali | give | -níŋka | + n í/i ŋ k a |
+| d305nyangali-know-1 | d305nyangali | know | -siba | + s i b a |
+| d305nyangali-one-1 | d305nyangali | one | -má | + m á/a |
+| d305nyangali-see-1 | d305nyangali | see | -kàɛ | + k à/a ɛ |
+| d305nyangali-skin-1 | d305nyangali | skin | -kɛ̀sa | + k ɛ̀/ɛ s a |
+| d305nyangali-two-1 | d305nyangali | two | -bɩ́ | + b ɩ́/ɪ |
+| d308bodo2-ashes-1 | d308bodo2 | ashes | -súpú | + s ú/u p ú/u |
+| d308bodo2-cloud-1 | d308bodo2 | cloud | -kóbá | + k ó/o b á/a |
+| d308bodo2-die-1 | d308bodo2 | die | -wo | + w o |
+| d308bodo2-ear-1 | d308bodo2 | ear | -cwéí | + c w é/e í/i |
+| d308bodo2-egg-1 | d308bodo2 | egg | -kií | + k i í/i |
+| d308bodo2-eye-1 | d308bodo2 | eye | -só | + s ó/o |
+| d308bodo2-feather-1 | d308bodo2 | feather | -atá | + a t á/a |
+| d308bodo2-fly-1 | d308bodo2 | fly | -bumbúa | + b u m b ú/u a |
+| d308bodo2-give-1 | d308bodo2 | give | -injo | + i n j o |
+| d308bodo2-hear-1 | d308bodo2 | hear | -oka | + o k a |
+| d308bodo2-horn-1 | d308bodo2 | horn | -pakáá | + p a k á/a á/a |
+| d308bodo2-knee-2 | d308bodo2 | knee | maú -ú | m a ú/u + + ú/u |
+| d308bodo2-know-1 | d308bodo2 | know | -embéa | + e m b é/e a |
+| d308bodo2-leaf-1 | d308bodo2 | leaf | -ané | + a n é/e |
+| d308bodo2-liver-1 | d308bodo2 | liver | -ngí | + n g í/i |
+| d308bodo2-louse-1 | d308bodo2 | louse | -sɔ́kɔ́ɔ | + s ɔ́/ɔ k ɔ́/ɔ ɔ |
+| d308bodo2-mouth-1 | d308bodo2 | mouth | -nu | + n u |
+| d308bodo2-rain-1 | d308bodo2 | rain | -gbaá | + g b a á/a |
+| d308bodo2-root-1 | d308bodo2 | root | -yo | + j o |
+| d308bodo2-see-1 | d308bodo2 | see | -ena | + e n a |
+| d308bodo2-skin-1 | d308bodo2 | skin | -mba | + m b a |
+| d308bodo2-sleep-1 | d308bodo2 | sleep | -tɔɔ́ | + t ɔ ɔ́/ɔ |
+| d308bodo2-tail-1 | d308bodo2 | tail | -yǎ | + j ǎ/a |
+| d308ebodo-ashes-1 | d308ebodo | ashes | -súpú | + s ú/u p ú/u |
+| d308ebodo-big-1 | d308ebodo | big | -ja | + j a |
+| d308ebodo-bite-1 | d308ebodo | bite | -kɛ̀ta | + k ɛ̀/ɛ t a |
+| d308ebodo-cloud-1 | d308ebodo | cloud | -kóbá | + k ó/o b á/a |
+| d308ebodo-egg-1 | d308ebodo | egg | -kií | + k i í/i |
+| d308ebodo-fly-1 | d308ebodo | fly | -bumbua | + b u m b u a |
+| d308ebodo-give-1 | d308ebodo | give | -injo | + i n j o |
+| d308ebodo-hear-1 | d308ebodo | hear | -oka | + o k a |
+| d308ebodo-know-1 | d308ebodo | know | -embea | + e m b e a |
+| d308ebodo-liver-1 | d308ebodo | liver | -ngí | + n g í/i |
+| d308ebodo-neck-1 | d308ebodo | neck | -mio | + m i o |
+| d308ebodo-one-1 | d308ebodo | one | -́ŋga | + ŋ g a |
+| d308ebodo-see-1 | d308ebodo | see | -ena | + e n a |
+| d308ebodo-send-1 | d308ebodo | send | -sèso | + s è/e s o |
+| d308ebodo-snake-10 | d308ebodo | snake | ɓa- | ɓ a + |
+| d308ebodo-snake-2 | d308ebodo | snake | ɓa- | ɓ a + |
+| d308ebodo-snake-4 | d308ebodo | snake | ɓa- | ɓ a + |
+| d308ebodo-snake-7 | d308ebodo | snake | ɓa- | ɓ a + |
+| d308ebodo-three-1 | d308ebodo | three | -́tʊ́ | + t ʊ́/ʊ |
+| d308ebodo-two-1 | d308ebodo | two | -pɩ́(n)ɩ | + p ɩ́/ɪ n ɪ |
 
-(0 rows)
+(100 rows)
 
 
