@@ -1,5 +1,7 @@
 # CLDF dataset derived from Grollemund et al.'s "Bantu expansion shows habitat alters the route and pace of human dispersals" from 2015
 
+[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -46,15 +48,15 @@ From Harald Hammarström:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/grollemundbantu.svg?branch=master)](https://travis-ci.org/lexibank/grollemundbantu)
+[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 424
-- **Concepts:** 100
+- **Varieties:** 424 (linked to 333 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 37,846
 - **Sources:** 217
 - **Synonymy:** 1.00
@@ -62,7 +64,7 @@ From Harald Hammarström:
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
 - **Tokens:** 196,920
-- **Segments:** 560 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
+- **Segments:** 560 (0 BIPA errors, 0 CLTS sound class errors, 555 CLTS modified)
 - **Inventory size (avg):** 34.86
 
 # Contributors
