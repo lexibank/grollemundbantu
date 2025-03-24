@@ -1,7 +1,5 @@
 # CLDF dataset derived from Grollemund et al.'s "Bantu expansion shows habitat alters the route and pace of human dispersals" from 2015
 
-[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -20,7 +18,6 @@ Available online at https://doi.org/10.1073/pnas.1503793112
 Conceptlists in Concepticon:
 - [Grollemund-2015-100](https://concepticon.clld.org/contributions/Grollemund-2015-100)
 ## Notes
-
 
 Language mapping
 ----------------
@@ -48,7 +45,6 @@ From Harald Hammarström:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -57,24 +53,25 @@ From Harald Hammarström:
 
 - **Varieties:** 424 (linked to 333 different Glottocodes)
 - **Concepts:** 100 (linked to 100 different Concepticon concept sets)
-- **Lexemes:** 37,846
+- **Lexemes:** 37,730
 - **Sources:** 217
 - **Synonymy:** 1.00
-- **Cognacy:** 37,713 cognates in 3,853 cognate sets (1,794 singletons)
+- **Cognacy:** 37,712 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 196,920
-- **Segments:** 560 (0 BIPA errors, 0 CLTS sound class errors, 555 CLTS modified)
-- **Inventory size (avg):** 34.86
+- **Tokens:** 185,200
+- **Segments:** 580 (0 BIPA errors, 0 CLTS sound class errors, 575 CLTS modified)
+- **Inventory size (avg):** 38.90
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
-Tiago Tresoldi | @tresoldi | maintainer
-Mark Pagel | | Distributor
-Rebecca Grollemund | | Distributor
+Name | GitHub user | Description | Role
+ --- | --- | --- | --- 
+Robert Forkel | @xrotwang | CLDF conversion | Editor
+Tiago Tresoldi | @tresoldi | CLDF conversion | Editor
+Johann-Mattis List | @lingulist | orthography profile | Editor 
+Rebecca Grollemund | | data collection | Distributor | Author
+Mark Pagel | | data analysis | Distributor | Author
 
 
 

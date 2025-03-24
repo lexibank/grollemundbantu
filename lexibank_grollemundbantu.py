@@ -23,6 +23,10 @@ class Dataset(BaseDataset):
         separators="~,;/",
         # Don't mess up lexemes like "(ku)tanga"
         strip_inside_brackets=False,
+        replacements=[(" ", "_"), ("-~ bilí", "bilí"), ("-́", "-"), ("-´", "-"),
+                      ("-ː", "-")],
+        first_form_only=True,
+        missing_data=["", "0.0", "?", "-", "- "],
     )
 
     def cmd_download(self, args):
