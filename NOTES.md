@@ -1,6 +1,4 @@
-
-Language mapping
-----------------
+## Language mapping
 
 From Harald Hammarström:
 
@@ -19,3 +17,7 @@ From Harald Hammarström:
 - Based on Philippson's other publications (the data is from him), JE32_Luyia could only be
   Masaaba, Isuxa, Logooli, or Saamia. Saamia [lsm] is the largest one and also the one the 
   missionaries tried to use for standardisation so one might as well guess JE32_Luyia is Saamia [lsm].
+
+## Consonant Clusters
+
+The orthography profile is only an approximation. There remain quite a few cases where we could not decide what the pronunciation is, due to ambiguities. We left them in this form, but ask kindly to check upon this, when running any kind of analysis in which the phonetic transcriptions of this dataset are important.

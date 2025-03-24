@@ -21,9 +21,7 @@ Conceptlists in Concepticon:
 - [Grollemund-2015-100](https://concepticon.clld.org/contributions/Grollemund-2015-100)
 ## Notes
 
-
-Language mapping
-----------------
+## Language mapping
 
 From Harald Hammarström:
 
@@ -43,6 +41,10 @@ From Harald Hammarström:
   Masaaba, Isuxa, Logooli, or Saamia. Saamia [lsm] is the largest one and also the one the 
   missionaries tried to use for standardisation so one might as well guess JE32_Luyia is Saamia [lsm].
 
+## Consonant Clusters
+
+The orthography profile is only an approximation. There remain quite a few cases where we could not decide what the pronunciation is, due to ambiguities. We left them in this form, but ask kindly to check upon this, when running any kind of analysis in which the phonetic transcriptions of this dataset are important.
+
 
 
 ## Statistics
@@ -57,24 +59,25 @@ From Harald Hammarström:
 
 - **Varieties:** 424 (linked to 333 different Glottocodes)
 - **Concepts:** 100 (linked to 100 different Concepticon concept sets)
-- **Lexemes:** 37,846
+- **Lexemes:** 37,730
 - **Sources:** 217
 - **Synonymy:** 1.00
-- **Cognacy:** 37,713 cognates in 3,853 cognate sets (1,794 singletons)
+- **Cognacy:** 37,712 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 196,920
-- **Segments:** 560 (0 BIPA errors, 0 CLTS sound class errors, 555 CLTS modified)
-- **Inventory size (avg):** 34.86
+- **Tokens:** 183,363
+- **Segments:** 606 (0 BIPA errors, 0 CLTS sound class errors, 600 CLTS modified)
+- **Inventory size (avg):** 40.85
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
-Tiago Tresoldi | @tresoldi | maintainer
-Mark Pagel | | Distributor
-Rebecca Grollemund | | Distributor
+Name | GitHub user | Description | Role
+ --- | --- | --- | --- 
+Robert Forkel | @xrotwang | CLDF conversion | Editor
+Tiago Tresoldi | @tresoldi | CLDF conversion | Editor
+Johann-Mattis List | @lingulist | orthography profile | Editor 
+Rebecca Grollemund | | data collection | Distributor | Author
+Mark Pagel | | data analysis | Distributor | Author
 
 
 

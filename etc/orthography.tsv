@@ -12,17 +12,169 @@ Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
 	NULL	NULL	NULL	1	U+F171	"kaɗī"	d311bila
 1$	NULL	NULL	NULL	1	U+0031 U+0024	"nnyòka 1"	l31alubakasai
 9$	NULL	NULL	NULL	2	U+0039 U+0024	"mbàg 9,ɲoka9"	a15cakossi,e74atuveta
+_1$	NULL
 ?$	NULL	NULL	NULL	22	U+003F U+0024	"amborete ?,sentero ?,tsimbeele ?"	e55kambakitu,f21ntuzu,f23sumbwa,f32nyaturuwil,f33langi,fefegrassfields,g33zaramo,g64pangwa,h31yaka,jd53shi,jd62rundi,je24kerebe,je32luyia,je403suba,je41maragoli,je45nata
 ?)	NULL	NULL	NULL	1	U+003F U+0029	"ɲila ?)"	g12kagulu
+^-	NULL
+-$	NULL
+__	+
+^__	NULL
+__$	NULL
+_?$	NULL
+-)$	NULL
+_._	+
+_9$	NULL
+_!	!
 …$	NULL	NULL	NULL	1	U+2026 U+0024	"omutom…"	je12rutooro
 (ˀ)	NULL	NULL	NULL	1	U+0028 U+02C0 U+0029	"-kwà(ˀ)al"	a15cmkaa
 -́$	NULL	NULL	NULL	5	U+002D U+0301 U+0024	"-si̧g-́,béé -́,bɔ́ŋ -́"	a53bafiarikpa,d28holoholo
 0.0	NULL	NULL	NULL	1	U+0030 U+002E U+0030	"0.0"	l33lubashaba
 15$	NULL	NULL	NULL	2	U+0031 U+0035 U+0024	"-badika 15,-pòna 15"	l31alubakasai
 [sic]	NULL	NULL	NULL	2	U+005B U+0073 U+0069 U+0063 U+005D	"amaɲi [sic],biβwe [sic]"	je404shasi,je44zanaki
-!	+	_	Marker	3	U+0021	"lí !,má!pə́ə́,nú !"	a15bmiengenwmanenguba,zaambojarawan
+!	ǃ	_	Marker	3	U+0021	"lí !,má!pə́ə́,nú !"	a15bmiengenwmanenguba,zaambojarawan
 '	ʔ	H	Consonant	104	U+0027	"eko',n'kongo,è-kòkɔ̀b'"	a15ambuu,a15bmiengenwmanenguba,a15cakossi,a15celungcentralmanenguba,a15cmkaa,a15manenguba,a24duala,a54tibea,a74abulu,a841badwe,a84njem,b501wanzie,c52soko1919,c54turumba1919,d23kibirakumu1919,d304homa1919,e55kambakitu,e55kambamach,f22nyamwezi,g32doe,g66wanji,h16flaadi,jd66kiha,je11runyoro,je41maragoli,l11pende,m11pimbwe,m25safwa,n14mpoto,p14ngindo,p31emakhua,s16kalanga,s44ndebele
 +	+	_	Marker	3	U+002B	"khaangu + thaangu,msenga +,nsuni + mbisi"	f22nyamwezi,h16hkinkanu2012
+_-	+
+_-$	NULL
+^-_	NULL
+-_	+
+_$	NULL
+ŋgw	ⁿgʷ
+^ŋgw	ⁿgʷ
+ḿm	ḿm/m̩
+ʔbw	ˀbʷ
+nzj	ⁿzʲ
+nzw	ⁿzʷ
+ŋkp	ⁿkp
+ŋgb	ⁿgb
+mvw	m̩ vʷ
+^mvw	m̩ vʷ
+mfw	m̩ fʷ
+^mfw	m̩ fʷ
+ncw	ⁿcʷ
+^ncw	ⁿcʷ
+mpj	ⁿpʲ
+^mpj	ⁿpʲ
+mpw	ⁿpʷ
+^mpw	ⁿpʷ
+ntʃw	ⁿtʃʷ
+^ntʃw	ⁿtʃʷ
+nnl	nn/n̩ l
+^nnl	nn/n̩ l
+ŋŋk	ŋŋ/ŋ̍ k
+^ŋŋk	ŋŋ/ŋ̍ k
+nkw	n̩ kʷ
+^nkw	n̩ kʷ
+nsw	n̩ sʷ
+^nsw	n̩ sʷ
+ntw	n̩ tʷ
+^ntw	n̩ tʷ
+bw	bʷ
+^bw	bʷ
+hkw	ʰkʷ
+mtw	m̩ tʷ
+^mtw	m̩ tʷ
+mph	ⁿpʰ
+^mph	ⁿpʰ
+ɲɲýỳ	ɲɲ/ɲː ýỳ/yː
+yy	yː
+mntw	m n̩ tʷ
+ndz	ⁿdz
+^ŋk’	ⁿk’
+ŋk’	ⁿk’
+^ndz	ⁿdz
+mpf	ⁿpf
+^mpf	ⁿpf
+zh	ʒ
+mntʳ	m n̩ tʳ
+^mntʳ	m n̩ tʳ
+ŋkʰ	ⁿkʰ
+^zh	ʒ
+mnt	m n̩ t
+^mnt	m n̩ t
+^mnym	m̩ n y m
+ŋk	ⁿk
+ŋkw	ⁿkʷ
+mnw	m n̩ w
+^mnw	m n̩ w
+^ŋk	ⁿk
+^ŋkw	ⁿkʷ
+mmbw	mm/m̩ bʷ
+^mmbw	mm/m̩ bʷ
+nnw	nn/n̩ w
+nhl	n hˡ
+nnr	nn/n̩ r
+^nnr	nn/n̩ r
+^hkw	ʰkʷ
+nsh	n̩ ʃ
+ńgw	ń/n̩ gʷ
+^ńgw	ń/n̩ gʷ
+^nsh	n̩ ʃ
+sh	ʃ
+^sh	ʃ
+^ŋkp	ⁿkp
+^ŋgb	ⁿgb
+^nzj	ⁿzʲ
+^nzw	ⁿzʷ
+^mbʰʷ	ⁿbʷʰ
+^mbʱ	ⁿbʱ
+^mbʲ	ⁿbʲ
+^mbʷ	ⁿbʷ
+^ndʰ	ⁿdʰ
+^nd̪	ⁿd̪
+^nd™	ⁿd
+^ɛɛ̂	ɛɛ̂/ɛː
+^ɛɛ́	ɛɛ́/ɛː
+ngʷ	ⁿgʷ
+mbʰʷ	ⁿbʷʰ
+mbʱ	ⁿbʱ
+mbʷ	ⁿbʷ
+ndʰ	ⁿdʰ
+nd̪	ⁿd̪
+ngʸ	ⁿgʲ
+uu̱	uu̱/uː
+ɛɛ́	ɛɛ́/ɛː
+ɛɛ̂	ɛɛ̂/ɛː
+ɛɛ̌	ɛɛ̌/ɛː
+ndʳ	ⁿdʳ
+^ndʳ	ⁿdʳ
+aa	aː
+^aa	aː
+ii	iː
+^ii	iː
+ee	eː
+^ee	eː
+uu	uː
+^uu	uː
+oo	oː
+^oo	oː
+ng	ⁿg
+^ng	ⁿg
+mb	ⁿb
+nd	ⁿd
+^mb	ⁿb
+^nd	ⁿd
+_[sic]$	NULL
+__?	NULL
+_15$	NULL
+ɛɛ	ɛː
+^˗˗	NULL
+^--bvi	b v i
+_.$	NULL
+_+	NULL
+_+_	NULL
+^(-ííɣwa)	íí/iː ɣ w a
+íí	íí/iː
+áá	áá/aː
+éé	éé/eː
+óó	óó/oː
+úú	úú/uː
+^íí	íí/iː
+^áá	áá/aː
+^éé	éé/eː
+^óó	óó/oː
+^úú	úú/uː
+^ɛɛ	ɛː
 -	+	_	Marker	6575	U+002D	"-ntangé,ku-shiba,ù-kùs"	a11londo,a141lefo,a151nkongho,a15ambuu,a15bmiengenwmanenguba,a15cakossi,a15celungcentralmanenguba,a15cmkaa,a15manenguba,a31bubi,a32cbatanga,a34benga,a42abo,a43abasaa,a44tunen,a45nyokon,a462yambeta,a46nomaande,a51bafiamaja,a53bafiarikpa,a54tibea,a601tuki,a61ngoroasom,a61ngorobisoo,a61ngorolunda,a621nubaca,a622nugunu,a62anuasue,a62anukalonge,a62bmmala,a62clibie,a63mangisa,a71eton,a72aewondo,a75afangbitam,a75afangmedouneu,a75afangminvoul,a803shiwa,a832bekol,a86cmpiemo,a91kwakum,a93kako,b11ampongwe,b11borungu,b11cgalwa,b201ndasa,b202sigu,b203samaye,b204ndambomoli,b204ndambomomassoukou,b204ndambomombadi,b21seki,b22akele,b22bkoya,b23mbangwe,b24wumbvu,b251shake,b252mahongwe,b25kota,b301viya,b302himba,b304pinzi,b305vove,b31tsogo,b32kande,b404ngubi,b41shira,b42sangumb,b42sangumi,b43punu,b44lumbu,b501wanzie,b501wanzimo,b51duma,b51dumala,b52nzebi,b53tsaangipoungi,b601lempini,b602kaninginord,b602kaningisud,b62mbaama,b63ndumu,b701atsitsege,b71aibtekeibalicongo,b71atekedj,b71atekeos,b77bfumu,b78wuumu,b81tiene,b82buma,b84mbunda,b85dnsongo,b85emput,b85yanzi,b861ngul,b862lwel,b863pindi,b865nzadi,b86dinga,b86dzing,c104aka,c105mbenga,c142mondongo,c24koyo,c25mboshi,c322zamba,c323mpama,c32bobangi,c36dlingala,c36gmosange,c401babati1919,c412libobi,c41ngombe,c43abaati,c44bwa,c52soko,c52soko1919,c54turumba1919,c55lokele,c61ekonda,c61mongo,c71tetela,c76ombo,c81dengese,c83bushong,c85wongo,d11mbole,d12lengola,d13metoko,d14enya,d201liko,d20bvamba1919,d211kango,d21baali,d23kibirakumu1919,d24songola,d25lega,d28holoholo,d304homa1919,d305nyangali,d308bodo2,d308ebodo,d311bila,d313mbuttu1919,d32bira,d32birabunia,d333ndaaka,d334mbo,d33nyali,d43nyanga,d55buyu,e46sonjo,e51kikuyu,e52embu,e52mbeere,e531muthambi,e531mwimbi,e53igoji,e53imenti,e53meru,e53meruimenti,e53merutig,e53miutini,e53tigania,e55kamba,e55kambakitu,e55kambamach,e56daiso,e621bmachame,e621csiha,e621dkibosho,e622akimochi,e622clema,e622cmamba,e622cvunjo,e623akiseri,e623dkeni,e623mkuu,e64kahe,e65gweno,e74atuveta,f12bende,f21ntuzu,f21sukuma,f22nyamwezi,f23sumbwa,f24kimbu,f25bungu,f31nyiramba,f32nyaturucha,f32nyaturuwil,f33langi,fefegrassfields,g11gogo,g12kagulu,g22anorthpare,g22bsouthpare,g24bondei,g31zigua,g32doe,g32kwere,g33zaramo,g34nguungulu,g35luguru,g36kami,g37kutu,g39saghala,g44angazija,g44bndzwani,g44dmaore,g51pogoro,g52ndamba,g61sangu,g62hehe,g63bena,g64pangwa,g65kinga,g66wanji,h11beembe,h12civilicongo,h131kisundicongokimongo1988,h13kikunyi1989,h16akisikongo2013,h16bkindibu2013,h16cilinji,h16cimbala,h16cizobe,h16ckiyombedrc1982,h16cyombe,h16flaadi,h16hkinkanu2012,h16kimbatangidinga,h16kimbeko,h21akimbundu,h31yaka,h321soonde,h32suku,h41mbala,h42hunganna,jd53shi,jd62rundi,jd64shubi,jd65hangaza,jd66kiha,jd67kivinza,je11runyoro,je12rutooro,je13runyankore,je14rukiga,je15luganda,je16lusoga,je17gwere,je21runyambo,je22haya,je23zinza,je25jita,je25kilegi,je25mkwaya,je31cbukusu,je31lumasaaba,je32luyia,je34samialugwe,je401ngoreme,je402ikizu,je403suba,je404shasi,je41maragoli,je42gusii,je43kuria,je43kuriatari,je44zanaki,k11ciokwe,k14lwena,k15mbunda,k21lozi,k31luyana,k33kwangali,komgrassfields,l11pende,l12bholu,l13kwese,l221lwalwa,l23songe,l31alubakasai,l32kanyok,l33lubashaba,l34hemba,l35sanga,l41kaonde,l51salampasu,l52lunda,l53runda,l62nkoya,m11pimbwe,m12lungwa,m13fipa,m14rungu,m15mambwe,m21ndali,m21wanda,m22namwanga,m23nyiha,m24malila,m28lambya,m31nyakyusa,m41taabwa,m42bemba,m52lala,m54lamba,m61lenje,m62soli,m64tonga,mbulajarawan,n11manda,n12ngoni,n13matengo,n14mpoto,n21tumbukamalawi,n31chewa,n42kunda,p11ndengeleko,p12rufiji,p13matumbi,p14ngindo,p15mbunga,p21yao,p22mwera,p23simakonde,p25mabia,p31emakhua,p31gikorovere,r21kwanyama,r22ndonga,r31herero,s11shona,s16kalanga,s21venda,s31tswana,s41xhosa,s42zulu,s44ndebele,s51tshwa,s53tsonga,tivtivoid,zaambojarawan
 1	l	L	Consonant	2	U+0031	"-1isi,nsɛ́t1e"	c323mpama,h16ckiyombedrc1982
 B	B/b	P	Consonant	1	U+0042	"mBVúlà"	h16flaadi
@@ -690,3 +842,11 @@ t(ʃ)	tʃ	T	Consonant	1	U+0074 U+0028 U+0283 U+0029	"-t(ʃ)ahika"	e623mkuu
 ɛ́͡i	ɛ́/ɛ j	E J	Vowel Consonant	2	U+025B U+0301 U+0361 U+0069	"fíbɛ́͡i,ítɛ́͡i"	moghamograssfields
 ɨ́͡i	ɨ́/ɨ j	I J	Vowel Consonant	1	U+0268 U+0301 U+0361 U+0069	"àtɔ̀ŋɨ́͡i"	moghamograssfields
 ↄ̰́:	ↄ̰́:/ɔ̃ː	U	Vowel	1	U+2184 U+0330 U+0301 U+003A	"kɔbↄ̰́:"	b864ngong
+kh	kʰ
+^kh	kʰ
+ph	pʰ
+^ph	pʰ
+th	tʰ
+^th	tʰ
+^kw	kʷ	
+kw	kʷ	
