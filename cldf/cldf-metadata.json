@@ -17,7 +17,7 @@
         {
             "rdf:about": "git@github.com:lexibank/grollemundbantu",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-ga7d4bdc",
+            "dc:created": "v1.0-2-g0e5d336",
             "dc:title": "Repository"
         },
         {

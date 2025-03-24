@@ -19,8 +19,7 @@ Conceptlists in Concepticon:
 - [Grollemund-2015-100](https://concepticon.clld.org/contributions/Grollemund-2015-100)
 ## Notes
 
-Language mapping
-----------------
+## Language mapping
 
 From Harald Hammarström:
 
@@ -39,6 +38,10 @@ From Harald Hammarström:
 - Based on Philippson's other publications (the data is from him), JE32_Luyia could only be
   Masaaba, Isuxa, Logooli, or Saamia. Saamia [lsm] is the largest one and also the one the 
   missionaries tried to use for standardisation so one might as well guess JE32_Luyia is Saamia [lsm].
+
+## Consonant Clusters
+
+The orthography profile is only an approximation. There remain quite a few cases where we could not decide what the pronunciation is, due to ambiguities. We left them in this form, but ask kindly to check upon this, when running any kind of analysis in which the phonetic transcriptions of this dataset are important.
 
 
 
@@ -59,9 +62,9 @@ From Harald Hammarström:
 - **Cognacy:** 37,712 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 184,445
-- **Segments:** 599 (0 BIPA errors, 0 CLTS sound class errors, 594 CLTS modified)
-- **Inventory size (avg):** 40.03
+- **Tokens:** 183,964
+- **Segments:** 606 (0 BIPA errors, 0 CLTS sound class errors, 600 CLTS modified)
+- **Inventory size (avg):** 40.36
 
 # Contributors
 
