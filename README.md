@@ -59,9 +59,9 @@ From Harald Hammarström:
 - **Cognacy:** 37,712 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 185,200
-- **Segments:** 580 (0 BIPA errors, 0 CLTS sound class errors, 575 CLTS modified)
-- **Inventory size (avg):** 38.90
+- **Tokens:** 184,445
+- **Segments:** 599 (0 BIPA errors, 0 CLTS sound class errors, 594 CLTS modified)
+- **Inventory size (avg):** 40.03
 
 # Contributors
 
