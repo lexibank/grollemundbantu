@@ -1,5 +1,7 @@
 # CLDF dataset derived from Grollemund et al.'s "Bantu expansion shows habitat alters the route and pace of human dispersals" from 2015
 
+[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -48,6 +50,7 @@ The orthography profile is only an approximation. There remain quite a few cases
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/grollemundbantu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/grollemundbantu/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -62,9 +65,9 @@ The orthography profile is only an approximation. There remain quite a few cases
 - **Cognacy:** 37,712 cognates in 3,853 cognate sets (1,794 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 183,964
+- **Tokens:** 183,363
 - **Segments:** 606 (0 BIPA errors, 0 CLTS sound class errors, 600 CLTS modified)
-- **Inventory size (avg):** 40.36
+- **Inventory size (avg):** 40.85
 
 # Contributors
 

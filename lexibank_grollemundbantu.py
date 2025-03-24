@@ -1,12 +1,9 @@
 import pathlib
 import collections
-
-from clldutils.misc import slug, lazyproperty
 import attr
-
+from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset, Language as BaseLanguage
 from pylexibank import FormSpec
-from lingpy.sequence.sound_classes import clean_string
 
 
 @attr.s
@@ -17,6 +14,7 @@ class Language(BaseLanguage):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "grollemundbantu"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     language_class = Language
     DSET = "Grollemund-et-al_Bantu-database_2015"
     form_spec = FormSpec(
@@ -24,21 +22,21 @@ class Dataset(BaseDataset):
         # Don't mess up lexemes like "(ku)tanga"
         strip_inside_brackets=False,
         replacements=[(" ", "_"), ("-~ bilí", "bilí"), ("-́", "-"), ("-´", "-"),
-                      ("-ː", "-")],
+                      ("-ː", "-"), ("_x001E_thathu", "thathu")],
         first_form_only=True,
-        missing_data=["", "0.0", "?", "-", "- "],
+        missing_data=["", "0.0", "?", "-", "- ", "0"],
     )
 
     def cmd_download(self, args):
         self.raw_dir.download_and_unpack(
-            "http://www.evolution.reading.ac.uk/Files/%s.zip" % self.DSET,
+            f"http://www.evolution.reading.ac.uk/Files/{self.DSET}.zip",
             self.DSET + ".xlsx",
             log=args.log,
         )
-        self.raw_dir.xls2csv(self.DSET + ".xlsx")
+        self.raw_dir.xlsx2csv(self.DSET + ".xlsx")
         self.raw_dir.joinpath(self.DSET + ".xlsx").unlink()
 
-    def read_csv(self, type_, **kw):
+    def read_csv(self, type_):
         header, rows = None, []
         for i, row in enumerate(
             self.raw_dir.read_csv(self.DSET + "." + type_ + ".csv")
@@ -51,7 +49,7 @@ class Dataset(BaseDataset):
         return header, rows
 
     def cmd_makecldf(self, args):
-        sources = {l["Name"]: l["Source"] for l in self.languages}
+        sources = {lang["Name"]: lang["Source"] for lang in self.languages}
         concepts = {
             x.english: (x.concepticon_id, x.concepticon_gloss)
             for x in self.conceptlists[0].concepts.values()
@@ -78,7 +76,7 @@ class Dataset(BaseDataset):
             for j, csid in enumerate(row[1:]):
                 concept = header[j + 1]
                 try:
-                    csid = "%s" % int(float(csid))
+                    csid = f"{int(float(csid))}"
                 except ValueError:
                     assert csid == "?"
                 ldata["objects"][glosses.get(concept, concept)] = (
@@ -86,17 +84,9 @@ class Dataset(BaseDataset):
                     csid,
                 )
 
-        # preprocess problematic lexemes
-        self.lexemes = {  # wtf..
-            k.encode("latin1", "backslashreplace")
-            .decode("unicode-escape")
-            .lstrip(): v
-            for (k, v) in self.lexemes.items()
-        }
-
         args.writer.add_sources()
         languages = args.writer.add_languages(
-            id_factory=lambda l: slug(l["Name"])
+            id_factory=lambda lang: slug(lang["Name"])
         )
 
         for _, lang in sorted(data.items()):
@@ -119,7 +109,7 @@ class Dataset(BaseDataset):
 
                 cogid = None
                 if item[1] != "?":
-                    cogid = "%s-%s" % (cslug, item[1])
+                    cogid = f"{cslug}-{item[1]}"
 
                 for i, row in enumerate(
                     args.writer.add_lexemes(
